@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hundo List"
+
+[params]
+    author = "_Scott Simcox_"
+    title = "Hundo List"
+    summary = "A collection of 100+ mile races curated by "

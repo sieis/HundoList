@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous"> 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    <!-- bootstrap table -->
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    <!-- link to main.css -->
+    <link rel="stylesheet" href="/css/main.css">
+    <title>Hundo List</title>
+</head>
+<body>
+    <main class="fluid-container my-4 mx-5">
+        <table id="hundoTable" data-toggle="table" data-show-columns="true" data-search="true" class="table table-hover">
+            <header class="bg-light bg-gradient p-5 shadow">
+                <h1 class="display-1">{{ .Site.Params.title }}</h1>
+                <h2>{{ .Site.Params.summary }} <span id="author">{{ .Site.Params.author }}</span> </h2>
+            </header>
+            
+            <thead class="">
+                <tr>
+                    <th scope="col" data-sortable="true">Race</th>
+                    <th scope="col" data-sortable="true">Location</th>
+                    <th scope="col" data-sortable="true">State</th>    
+                    <th scope="col" data-sortable="true">approxDate</th>    
+                    <th scope="col" data-sortable="true">regPrice</th>    
+                    <th scope="col" data-sortable="true">lottery</th>    
+                    <th scope="col" data-sortable="true">buckle</th>    
+                    <th scope="col" data-sortable="true">pointOnBLoop</th>    
+                    <th scope="col" data-sortable="true">uniqueMiles</th>    
+                    <th scope="col" data-sortable="true">elevationGain</th>    
+                    <th scope="col" data-sortable="true">sub24</th>    
+                    <th scope="col" data-sortable="true">avgFinisher</th>    
+                    <th scope="col" data-sortable="true">strava</th>    
+                    <th scope="col" data-sortable="true">FIELD15</th>    
+                    <th scope="col" data-sortable="true">bucklesLink</th>    
+                    <th scope="col" data-sortable="true">updates</th>    
+                </tr>
+            </thead>
+            <tbody>
+                {{ range .Site.Data.hundo2 }}
+                <tr>
+                    <td><a href="{{ .eventInfo }}">{{ .race }}</a></td>
+                    <td>{{ .location }}</td>
+                    <td>{{ .state }}</td>
+                    <td>{{ .approxDate }}</td>
+                    <td>${{ .regPrice }}</td>
+                    <td>{{ .lottery }}</td>
+                    <td>{{ .buckle }}</td>
+                    <td>{{ .pointOnBLoop }}</td>
+                    <td>{{ .uniqueMiles }}</td>
+                    <td>{{ .elevationGain }}</td>
+                    <td>{{ .sub24 }}</td>
+                    <td>{{ .avgFinisher }}</td>
+                    <td><a href="{{ .stravaLink }}">{{ .race }} {{ .strava }}</a></td>
+                    <td>{{ .FIELD15 }}</td>
+                    <td><a href="{{ .bucklesLink }}">{{ .race }} buckle</a></td>
+                    <td>{{ .updates }}</td>
+                </tr>
+                {{ end }}
+            </tbody>
+        </table>
+    </main>
+    <footer class="fluid-container p-5">
+        <h3><a href="https://www.greentunnelevents.com/about">Green Tunnel Events</a></h3>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,5450 @@
+[
+ {
+   "Race": "Coldwater Rumble",
+   "Location": "Goodyear, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "01/16",
+   "Reg Price": 240,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "19",
+   "Elevation Gain": "10,000",
+   "Sub 24": "36%",
+   "AVG # Finishers": 31,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://ultrasignup.com/register.aspx?did=39172",
+   "Buckles Links": "https://i.imgur.com/MiOuycL.jpg",
+   "Strava Links": "https://www.strava.com/activities/75691189"
+},
+ {
+   "Race": "Frozen:H3",
+   "Location": "Bethera, SC",
+   "State": "SC",
+   "Date (Roughly)": "01/14",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (6)"
+      }
+   },
+   "Unique Miles": "16",
+   "Elevation Gain": "600",
+   "Sub 24": "16%",
+   "AVG # Finishers": 17,
+   "Strava": "Strava",
+   "Updates": "03/02/18: Updated Stagecoach buckle",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "http://i.imgur.com/WqwKo0Z.jpg",
+   "Strava Links": "https://www.strava.com/activities/109232609/overview"
+},
+ {
+   "Race": "Long Haul",
+   "Location": "Land O Lakes, FL",
+   "State": "FL",
+   "Date (Roughly)": "01/16",
+   "Reg Price": 185,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (5)"
+      }
+   },
+   "Unique Miles": "7",
+   "Elevation Gain": "100",
+   "Sub 24": "25%",
+   "AVG # Finishers": 78,
+   "Strava": "Strava",
+   "Updates": "03/03: Added Wawayanda and NJ Ultra Fest",
+   "FIELD15": "",
+   "Event Info": "http://3beaversracing.com/midnight-moose-ultra/",
+   "Buckles Links": "https://i.imgur.com/xSmwafh.jpg",
+   "Strava Links": ""
+},
+ {
+   "Race": "HURT",
+   "Location": "Honou, HI",
+   "State": "HI",
+   "Date (Roughly)": "01/18",
+   "Reg Price": 300,
+   "Lottery": "07/20",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "13",
+   "Elevation Gain": "29,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 70,
+   "Strava": "Strava",
+   "Updates": "03/07:  Hallucination Strava and new buckle",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "https://i.imgur.com/b6lO3KH.jpg",
+   "Strava Links": "https://www.strava.com/activities/2092636708"
+},
+ {
+   "Race": "Arrowhead 135",
+   "Location": "International Falls, MN",
+   "State": "MN",
+   "Date (Roughly)": "01/25",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "135",
+   "Elevation Gain": "5,000",
+   "Sub 24": "",
+   "AVG # Finishers": 30,
+   "Strava": "Strava",
+   "Updates": "04/26:  Firewater removed",
+   "FIELD15": "",
+   "Event Info": "https://100mileclub.com/saddle2surf/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2803882396"
+},
+ {
+   "Race": "Pier 2 Pier 200K",
+   "Location": "Naples, FL",
+   "State": "FL",
+   "Date (Roughly)": "01/23",
+   "Reg Price": 165,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "120",
+   "Elevation Gain": "500",
+   "Sub 24": "",
+   "AVG # Finishers": 9,
+   "Strava": "Strava",
+   "Updates": "05/15:  TARC removed.\nAdded elevation gain",
+   "FIELD15": "",
+   "Event Info": "https://www.surfthemurph.org/savage-100",
+   "Buckles Links": "https://i.imgur.com/RaZlnPl.jpg",
+   "Strava Links": "https://www.strava.com/activities/1916947559"
+},
+ {
+   "Race": "SkyDive ",
+   "Location": "Clewiston, FL",
+   "State": "FL",
+   "Date (Roughly)": "01/30",
+   "Reg Price": 145,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (13)"
+      }
+   },
+   "Unique Miles": "7",
+   "Elevation Gain": "500",
+   "Sub 24": "25%",
+   "AVG # Finishers": 9,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.arrowheadultra.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/851948865/overview"
+},
+ {
+   "Race": "Tour De Los Tejas 300k",
+   "Location": "Austin, TX",
+   "State": "TX",
+   "Date (Roughly)": "02/05",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "6,600",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "06/02:  Updated May finish rates",
+   "FIELD15": "",
+   "Event Info": "http://pier2pierultras.com/",
+   "Buckles Links": "https://i.imgur.com/oKwu0gA.jpg",
+   "Strava Links": "https://www.strava.com/activities/3006066137"
+},
+ {
+   "Race": "Tour De Los Tejas 600k",
+   "Location": "Austin, TX",
+   "State": "TX",
+   "Date (Roughly)": "02/05",
+   "Reg Price": 425,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "06/12:  Added Hellbender",
+   "FIELD15": "",
+   "Event Info": "http://www.trailracingovertexas.com/the-franklins/",
+   "Buckles Links": "https://i.imgur.com/5m3o4S8.png?1",
+   "Strava Links": "https://www.strava.com/activities/2139057262"
+},
+ {
+   "Race": "Beast of Burden Winter",
+   "Location": "Lockport, NY",
+   "State": "NY",
+   "Date (Roughly)": "02/06",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "12",
+   "Elevation Gain": "500",
+   "Sub 24": "28%",
+   "AVG # Finishers": 21,
+   "Strava": "Strava",
+   "Updates": "06/21:  Added UK+Ireland sheet.  Very hard to find info.  Many <10 people races not included.  God bless UltraSignup.\nBegan Registration price and lottery.\nRemoved Blazing 7s.",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": "Loading..."
+},
+ {
+   "Race": "Rocky Raccoon",
+   "Location": "Huntsville, TX",
+   "State": "TX",
+   "Date (Roughly)": "02/06",
+   "Reg Price": 230,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "14",
+   "Elevation Gain": "6,000",
+   "Sub 24": "35%",
+   "AVG # Finishers": 220,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "#ERROR!",
+   "Buckles Links": "Loading...",
+   "Strava Links": "Loading..."
+},
+ {
+   "Race": "Grandmaster",
+   "Location": "Littlefield, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "02/08",
+   "Reg Price": 180,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "24",
+   "Elevation Gain": "4,200",
+   "Sub 24": "9%",
+   "AVG # Finishers": 23,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.saintsebastian100.com/",
+   "Buckles Links": "https://i.imgur.com/8dV34bs.jpg",
+   "Strava Links": "https://www.strava.com/activities/1290591415"
+},
+ {
+   "Race": "Iron Horse",
+   "Location": "Florahome, FL",
+   "State": "FL",
+   "Date (Roughly)": "02/08",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "15",
+   "Elevation Gain": "2,500",
+   "Sub 24": "56%",
+   "AVG # Finishers": 11,
+   "Strava": "Strava",
+   "Updates": "06/26:  Removed Cottonmouth, Croom Zoom, Houston Running Festival",
+   "FIELD15": "",
+   "Event Info": "https://www.beastofburden100.com/",
+   "Buckles Links": "http://i.imgur.com/VKvPZmD.jpg",
+   "Strava Links": "https://www.strava.com/activities/478127356"
+},
+ {
+   "Race": "Lost 118",
+   "Location": "Clewiston, FL",
+   "State": "FL",
+   "Date (Roughly)": "02/08",
+   "Reg Price": 118,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "118",
+   "Elevation Gain": "800",
+   "Sub 24": "",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Outlaw",
+   "Location": "Wilburton, OK",
+   "State": "OK",
+   "Date (Roughly)": "02/12",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "19",
+   "Elevation Gain": "15,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 11,
+   "Strava": "Strava",
+   "Updates": "06/27: Updated Georgia Jewel, Heartland buckles",
+   "FIELD15": "",
+   "Event Info": "http://www.tejastrails.com/rocky100/",
+   "Buckles Links": "http://i.imgur.com/hoKburW.jpg",
+   "Strava Links": "https://www.strava.com/activities/855571107/overview"
+},
+ {
+   "Race": "Actif Epica",
+   "Location": "Ridgeville, ONT",
+   "State": "CAN",
+   "Date (Roughly)": "02/14",
+   "Reg Price": 160,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "2,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "06/29:  Added \"Removed\" sheet for cancelled races",
+   "FIELD15": "",
+   "Event Info": "https://grandmasterultras.com/",
+   "Buckles Links": "https://i.imgur.com/7QNkRTD.jpg",
+   "Strava Links": "https://www.strava.com/activities/2147623990"
+},
+ {
+   "Race": "Jackpot",
+   "Location": "Las Vegas, NV",
+   "State": "NV",
+   "Date (Roughly)": "02/14",
+   "Reg Price": 170,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (42)"
+      }
+   },
+   "Unique Miles": "2",
+   "Elevation Gain": "4,000",
+   "Sub 24": "41%",
+   "AVG # Finishers": 37,
+   "Strava": "Strava",
+   "Updates": "07/06:  Asterisk by names of Hardrock qualifiers\nUpdated June finish rates\nUpdated Black Hills, TGNY buckles\nAdded 3 races to UK/Ireland:  UTS, WHW, Quad",
+   "FIELD15": "",
+   "Event Info": "http://www.ironhorse100kmclub.com/index.html",
+   "Buckles Links": "http://i.imgur.com/aTIwDRw.jpg",
+   "Strava Links": "https://www.strava.com/activities/865891551"
+},
+ {
+   "Race": "Destin Beach 100",
+   "Location": "Destin, FL",
+   "State": "FL",
+   "Date (Roughly)": "02/15",
+   "Reg Price": 700,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "52",
+   "Elevation Gain": "1,400",
+   "Sub 24": "15%",
+   "AVG # Finishers": 13,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/RobbersCaveOutlaw100/",
+   "Buckles Links": "https://i.imgur.com/fBzO4EB.jpg",
+   "Strava Links": "https://www.strava.com/activities/2158285548/overview"
+},
+ {
+   "Race": "Susitna",
+   "Location": "Big Lake, AK",
+   "State": "AK",
+   "Date (Roughly)": "02/15",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "97",
+   "Elevation Gain": "2,000",
+   "Sub 24": "1%",
+   "AVG # Finishers": 24,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://actifepi.ca/",
+   "Buckles Links": "https://i.imgur.com/d5AylCc.jpg",
+   "Strava Links": "https://www.strava.com/activities/1414808391/overview"
+},
+ {
+   "Race": "Bokoa Spring Fling",
+   "Location": "Ninole, HI",
+   "State": "HI",
+   "Date (Roughly)": "02/20",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": ""
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "07/21:  Updated Indiana date and Hennepin Elevation",
+   "FIELD15": "",
+   "Event Info": "http://www.beyondlimitsrunning.com/",
+   "Buckles Links": "https://i.imgur.com/AZfeqPa.jpg",
+   "Strava Links": "https://www.strava.com/activities/872741490"
+},
+ {
+   "Race": "Lovit",
+   "Location": "Hot Springs, AR",
+   "State": "AR",
+   "Date (Roughly)": "02/26",
+   "Reg Price": 190,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "48",
+   "Elevation Gain": "15,000",
+   "Sub 24": "11%",
+   "AVG # Finishers": 24,
+   "Strava": "Strava",
+   "Updates": "08/14:  Updated July finish rates\nUpdated Devil Dog buckle\nAdded Grand Mesa",
+   "FIELD15": "",
+   "Event Info": "http://destin100.weebly.com/",
+   "Buckles Links": "https://i.imgur.com/oTG8Lw5.jpg",
+   "Strava Links": "https://www.strava.com/activities/3112488377"
+},
+ {
+   "Race": "TWOT - The Wild Oak Trail",
+   "Location": "Mount Solon, VA",
+   "State": "VA",
+   "Date (Roughly)": "02/26",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "28",
+   "Elevation Gain": "30,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 4,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.susitna100.com/",
+   "Buckles Links": "https://i.imgur.com/mRUMBGC.jpg",
+   "Strava Links": "https://www.strava.com/activities/1415517379/overview"
+},
+ {
+   "Race": "Red Dirt",
+   "Location": "Provencal, LA",
+   "State": "LA",
+   "Date (Roughly)": "02/29",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "30",
+   "Elevation Gain": "9,000",
+   "Sub 24": "49%",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": "Loading..."
+},
+ {
+   "Race": "Wild Florida 120",
+   "Location": "St Cloud, FL",
+   "State": "FL",
+   "Date (Roughly)": "03/05",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "120",
+   "Elevation Gain": "1,000",
+   "Sub 24": "",
+   "AVG # Finishers": 51,
+   "Strava": "Strava",
+   "Updates": "09/10:  Updated August finish rates\nLean Horse and Run De Vous buckles",
+   "FIELD15": "",
+   "Event Info": "http://www.runlovit.com/",
+   "Buckles Links": "http://i.imgur.com/N4fJMkD.jpg",
+   "Strava Links": "https://www.strava.com/activities/880551320"
+},
+ {
+   "Race": "Chattanooga",
+   "Location": "Rising Fawn, GA",
+   "State": "GA",
+   "Date (Roughly)": "03/06",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "62",
+   "Elevation Gain": "12,000",
+   "Sub 24": "8%",
+   "AVG # Finishers": 66,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.vhtrc.org/news/twot100",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1413890599"
+},
+ {
+   "Race": "Old Pueblo",
+   "Location": "Sonoita, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "03/06",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "15,000",
+   "Sub 24": "11%",
+   "AVG # Finishers": 9,
+   "Strava": "Strava",
+   "Updates": "10/10:  Updated September finish rates\nHallucination and Run Rabbit Run buckles\nRemoved Mark Twain\nAdded dates for lotteries\nWould appreciate help with <24 Pine to Palm buckle!",
+   "FIELD15": "",
+   "Event Info": "http://www.reddirtultra.com/",
+   "Buckles Links": "https://i.imgur.com/Anrfs0x.jpg",
+   "Strava Links": "https://www.strava.com/activities/2121505321/overview"
+},
+ {
+   "Race": "Drift",
+   "Location": "Pinedale, WY",
+   "State": "WY",
+   "Date (Roughly)": "03/12",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "96",
+   "Elevation Gain": "9,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 10,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.runbumtours.com/wildflorida120",
+   "Buckles Links": "https://i.imgur.com/RaRpyMe.jpg",
+   "Strava Links": "https://www.strava.com/activities/3064306393"
+},
+ {
+   "Race": "Antelope Canyon",
+   "Location": "Page, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "03/14",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (7)"
+      }
+   },
+   "Unique Miles": "39",
+   "Elevation Gain": "7,000",
+   "Sub 24": "10%",
+   "AVG # Finishers": 28,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.runbumtours.com/chattanooga-races",
+   "Buckles Links": "http://i.imgur.com/4JIonyh.jpg",
+   "Strava Links": "https://www.strava.com/activities/3163605149"
+},
+ {
+   "Race": "Buffalo Run",
+   "Location": "Syracuse, UT",
+   "State": "UT",
+   "Date (Roughly)": "03/20",
+   "Reg Price": 193,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L"
+      }
+   },
+   "Unique Miles": "34",
+   "Elevation Gain": "7,000",
+   "Sub 24": "32%",
+   "AVG # Finishers": 43,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Coastal Georgia Greenway 100",
+   "Location": "Townsend, GA",
+   "State": "GA",
+   "Date (Roughly)": "03/20",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": 4,
+   "Strava": "MapMyRun",
+   "Updates": "10/13:  Added Olde 96er",
+   "FIELD15": "",
+   "Event Info": "https://www.thedrift100.com/",
+   "Buckles Links": "https://i.imgur.com/lzS1QRd.jpg",
+   "Strava Links": "https://www.strava.com/activities/3183792895"
+},
+ {
+   "Race": "Coastal Georgia Greenway 150",
+   "Location": "Savannah, GA",
+   "State": "GA",
+   "Date (Roughly)": "03/20",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "150",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": 8,
+   "Strava": "MapMyRun",
+   "Updates": "10/17:  Updated Fat Dog date",
+   "FIELD15": "",
+   "Event Info": "https://vacationraces.com/ultras/antelope-canyon/",
+   "Buckles Links": "https://i.imgur.com/R71AOTi.jpg",
+   "Strava Links": "https://www.strava.com/activities/1427281176"
+},
+ {
+   "Race": "Cross Florida Route 40 Romp",
+   "Location": "Yankeetown, FL",
+   "State": "FL",
+   "Date (Roughly)": "03/20",
+   "Reg Price": 0,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "116",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": 3,
+   "Strava": "",
+   "Updates": "11/12:  Updated October finish rates\nAdded Ute\nUpdated Hennepin, Pumpkin Holler buckles",
+   "FIELD15": "",
+   "Event Info": "https://www.buffalorunadventures.com/",
+   "Buckles Links": "https://i.imgur.com/6yLHYkz.jpg",
+   "Strava Links": "https://www.strava.com/activities/905165934/overview"
+},
+ {
+   "Race": "Pulse Endurance Runs",
+   "Location": "Eagle, ID",
+   "State": "ID",
+   "Date (Roughly)": "03/20",
+   "Reg Price": 165,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (40)"
+      }
+   },
+   "Unique Miles": "2",
+   "Elevation Gain": "1,500",
+   "Sub 24": "22%",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://roughrunnersr4r.com/coastal-georgia-greenway-155-mile-ultra-cgg-155/",
+   "Buckles Links": "https://i.imgur.com/JopAdLk.jpg",
+   "Strava Links": "https://www.mapmyrun.com/routes/fullscreen/2403566524/"
+},
+ {
+   "Race": "END-SURE",
+   "Location": "McLeod, ND",
+   "State": "ND",
+   "Date (Roughly)": "03/21",
+   "Reg Price": 70,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2) O (1)"
+      }
+   },
+   "Unique Miles": "51",
+   "Elevation Gain": "800",
+   "Sub 24": "25%",
+   "AVG # Finishers": 2,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://roughrunnersr4r.com/coastal-georgia-greenway-155-mile-ultra-cgg-155/",
+   "Buckles Links": "https://i.imgur.com/hsP5sVV.jpg",
+   "Strava Links": "https://www.mapmyrun.com/routes/fullscreen/2386425046/"
+},
+ {
+   "Race": "Flat Top Mesa",
+   "Location": "Mesquite, NV",
+   "State": "NV",
+   "Date (Roughly)": "03/21",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (10)"
+      }
+   },
+   "Unique Miles": "10",
+   "Elevation Gain": "7,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 2,
+   "Strava": "MapPed",
+   "Updates": "11/16:  Removed Razorback, Fort Clinch\nAdded Blood Rock\nUpdated AC and Tunnel Hill buckles\nUpdated some registration prices",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Voodoo ",
+   "Location": "Baton Rouge, LA",
+   "State": "LA",
+   "Date (Roughly)": "03/26",
+   "Reg Price": 300,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "130",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "MapMyRun",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.pulserunning.com/pulseenduranceruns",
+   "Buckles Links": "https://i.imgur.com/RNPyGTz.jpg",
+   "Strava Links": "https://www.strava.com/segments/9161688"
+},
+ {
+   "Race": "Greenbrier Endurance Run",
+   "Location": "Hagerstown, MD",
+   "State": "MD",
+   "Date (Roughly)": "03/27",
+   "Reg Price": 154,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (19)"
+      }
+   },
+   "Unique Miles": "6",
+   "Elevation Gain": "14,000",
+   "Sub 24": "25%",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://endracing.com/end-sure",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/906961193/overview"
+},
+ {
+   "Race": "Rim Runner",
+   "Location": "Sewanee, TN",
+   "State": "TN",
+   "Date (Roughly)": "03/27",
+   "Reg Price": 220,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "24",
+   "Elevation Gain": "13,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "TracedeTrail",
+   "Updates": "11/19:  Added Palisades, Great Cranberry, Yankee Springs, Resurrection Pass, Ancient Oaks, Tesla Hertz, tBunk, Orion, Maah Daah Hey, Gaspesia, Silver Moon, Antelope Canyon, Scout Mountain, Old Cascadia, Teanaway Country",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Southwest 100",
+   "Location": "Fort Davis, TX",
+   "State": "TX",
+   "Date (Roughly)": "03/27",
+   "Reg Price": 179,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "20",
+   "Elevation Gain": "13,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 0,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "White Mountain",
+   "Location": "Fairbanks, AK",
+   "State": "AK",
+   "Date (Roughly)": "03/27",
+   "Reg Price": 250,
+   "Lottery": "11/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "91",
+   "Elevation Gain": "9,000",
+   "Sub 24": "7%",
+   "AVG # Finishers": 13,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/events/182904428980654/",
+   "Buckles Links": "https://i.imgur.com/Y9khNAo.jpg",
+   "Strava Links": "https://www.strava.com/activities/1471836090"
+},
+ {
+   "Race": "Blackbeard's Revenge",
+   "Location": "Corolla, NC",
+   "State": "NC",
+   "Date (Roughly)": "03/28",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "300",
+   "Sub 24": "28%",
+   "AVG # Finishers": 25,
+   "Strava": "Strava",
+   "Updates": "11/26: Updated Devon Coast To Coast, High Lonesome, IMTUF, Plain, Maah Daah Hey buckles",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Lake Martin",
+   "Location": "Alexander City, AL",
+   "State": "AL",
+   "Date (Roughly)": "03/28",
+   "Reg Price": 220,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "24",
+   "Elevation Gain": "15,000",
+   "Sub 24": "7%",
+   "AVG # Finishers": 35,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.ultraexpeditions.com/the-southwest-100",
+   "Buckles Links": "https://i.imgur.com/Jm2UDnD.jpg",
+   "Strava Links": "https://www.strava.com/activities/2257936955"
+},
+ {
+   "Race": "Prairie Spirit",
+   "Location": "Ottawa, KS",
+   "State": "KS",
+   "Date (Roughly)": "03/28",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "50",
+   "Elevation Gain": "1,500",
+   "Sub 24": "46%",
+   "AVG # Finishers": 45,
+   "Strava": "Strava",
+   "Updates": "11/28:  Added Viaduct Trail, Lost Soul",
+   "FIELD15": "",
+   "Event Info": "http://wm100.endurancenorth.org/",
+   "Buckles Links": "https://i.imgur.com/jsGFLlf.jpg",
+   "Strava Links": "https://www.strava.com/activities/918526661/overview"
+},
+ {
+   "Race": "SISU",
+   "Location": "Monrovia, CA",
+   "State": "CA",
+   "Date (Roughly)": "04/03",
+   "Reg Price": 110,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "Variable",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "11/30:  Began work on mapping all race courses by age.  Link at top under \"location.\"",
+   "FIELD15": "",
+   "Event Info": "http://triviumracing.com/event/blackbeards-revenge-100/",
+   "Buckles Links": "https://i.imgur.com/fEdKx3B.jpg",
+   "Strava Links": "https://www.strava.com/activities/2254736125"
+},
+ {
+   "Race": "NJ Ultra Fest",
+   "Location": "Hardwick, NJ",
+   "State": "NJ",
+   "Date (Roughly)": "04/04",
+   "Reg Price": 140,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (16)"
+      }
+   },
+   "Unique Miles": "5",
+   "Elevation Gain": "18,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 3,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.southeasterntrailruns.com/lake-martin-100.html",
+   "Buckles Links": "https://i.imgur.com/K9AeS9X.jpg",
+   "Strava Links": "https://www.strava.com/activities/273302649"
+},
+ {
+   "Race": "Potawatomi",
+   "Location": "Pekin, IL",
+   "State": "IL",
+   "Date (Roughly)": "04/04",
+   "Reg Price": 160,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (10)"
+      }
+   },
+   "Unique Miles": "10",
+   "Elevation Gain": "12,000",
+   "Sub 24": "5%",
+   "AVG # Finishers": 28,
+   "Strava": "Strava",
+   "Updates": "12/03:  Updated November finish rates.\nUpdated Dinosaur Valley buckle.",
+   "FIELD15": "",
+   "Event Info": "http://www.prairiespirit100.com/",
+   "Buckles Links": "http://i.imgur.com/hON2Opf.jpg",
+   "Strava Links": "https://www.strava.com/activities/276191692/overview"
+},
+ {
+   "Race": "Umstead",
+   "Location": "Raleigh, NC",
+   "State": "NC",
+   "Date (Roughly)": "04/04",
+   "Reg Price": 180,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (8)"
+      }
+   },
+   "Unique Miles": "10",
+   "Elevation Gain": "9,000",
+   "Sub 24": "43%",
+   "AVG # Finishers": 137,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Endurance Hunter",
+   "Location": "Blue Ridge, GA",
+   "State": "GA",
+   "Date (Roughly)": "04/10",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "15,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "01/02/19:  Updated December finish rates, Hitchcock buckle, Pistol and Chattanooga dates.\nAdded Greenbrier, Outlaw, END-SURE, Blackbeard's Revenge, Charleston, Loup Garou, The Falls, Wicklow Way (Ireland), Infinitus, Marji Gesick",
+   "FIELD15": "",
+   "Event Info": "https://sites.google.com/site/njtrailseries/njultrafestival",
+   "Buckles Links": "https://i.imgur.com/Ac4Wgv3.jpg",
+   "Strava Links": "https://www.strava.com/activities/535243991"
+},
+ {
+   "Race": "Ozark Foothills",
+   "Location": "Wildwood, MO",
+   "State": "MO",
+   "Date (Roughly)": "04/10",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "52",
+   "Elevation Gain": "14,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.potultras.com/",
+   "Buckles Links": "http://i.imgur.com/aVSy1Vy.jpg",
+   "Strava Links": "https://www.strava.com/activities/935632744/overview"
+},
+ {
+   "Race": "Zumbro",
+   "Location": "Theilman, MN",
+   "State": "MN",
+   "Date (Roughly)": "04/10",
+   "Reg Price": 195,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (6)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "15,000",
+   "Sub 24": "11%",
+   "AVG # Finishers": 40,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "f",
+   "Buckles Links": "http://i.imgur.com/TpoCSET.jpg",
+   "Strava Links": "https://www.strava.com/activities/925774619"
+},
+ {
+   "Race": "Olde 96er",
+   "Location": "Wellsville, OH",
+   "State": "OH",
+   "Date (Roughly)": "04/16",
+   "Reg Price": 125,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "102",
+   "Elevation Gain": "5,000",
+   "Sub 24": "5%",
+   "AVG # Finishers": 10,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": "Loading..."
+},
+ {
+   "Race": "Olde 96er 200",
+   "Location": "Wellsville, OH",
+   "State": "OH",
+   "Date (Roughly)": "04/16",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "102",
+   "Elevation Gain": "10,000",
+   "Sub 24": "",
+   "AVG # Finishers": 9,
+   "Strava": "Strava",
+   "Updates": "01/13-14:  Added 200s that are not just loops of existing 100s.\nReformatted and updated UK + Ireland page.  \nAdded UK races:  King Offas Dyke, Mercian Challenge, Beacons and Beacons Way, Rebellion Summer, Rebellion Winter,  Exodus, C2C, T100, T184, The Dragon, Pembrokeshire",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Double Top",
+   "Location": "Chatsworth, GA",
+   "State": "GA",
+   "Date (Roughly)": "04/17",
+   "Reg Price": 205,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "21",
+   "Elevation Gain": "21,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.zumbroendurancerun.com/",
+   "Buckles Links": "http://i.imgur.com/gMGN1gf.jpg",
+   "Strava Links": "https://www.strava.com/activities/540548317/overview"
+},
+ {
+   "Race": "Zion",
+   "Location": "Virgin, UT",
+   "State": "UT",
+   "Date (Roughly)": "04/18",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L"
+      }
+   },
+   "Unique Miles": "74",
+   "Elevation Gain": "11,500",
+   "Sub 24": "12%",
+   "AVG # Finishers": 157,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/stateroute45/",
+   "Buckles Links": "https://i.imgur.com/Fzp9xMl.jpg",
+   "Strava Links": "https://www.strava.com/activities/1890923335"
+},
+ {
+   "Race": "OBX 200",
+   "Location": "Corolla, NC",
+   "State": "NC",
+   "Date (Roughly)": "04/21",
+   "Reg Price": 500,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "189",
+   "Elevation Gain": "800",
+   "Sub 24": "",
+   "AVG # Finishers": 3,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/stateroute45/",
+   "Buckles Links": "https://i.imgur.com/Fzp9xMl.jpg",
+   "Strava Links": "https://www.strava.com/activities/1890923335"
+},
+ {
+   "Race": "Knock On Wood",
+   "Location": "Greenville, SC",
+   "State": "SC",
+   "Date (Roughly)": "04/24",
+   "Reg Price": 115,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (20)"
+      }
+   },
+   "Unique Miles": "5",
+   "Elevation Gain": "10,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 15,
+   "Strava": "Strava",
+   "Updates": "01/22:  Removed Orion",
+   "FIELD15": "",
+   "Event Info": "http://ultrasignup.com/register.aspx?did=57546",
+   "Buckles Links": "http://i.imgur.com/09Cxu9m.jpg",
+   "Strava Links": "https://www.strava.com/activities/2307504602"
+},
+ {
+   "Race": "C&O Canal",
+   "Location": "Knoxville, MD",
+   "State": "MD",
+   "Date (Roughly)": "04/25",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "30",
+   "Elevation Gain": "1,500",
+   "Sub 24": "35%",
+   "AVG # Finishers": 74,
+   "Strava": "Strava",
+   "Updates": "03/22:  (Finally) updated January finish rates.  \nUpdated HURT buckle.",
+   "FIELD15": "",
+   "Event Info": "https://vacationraces.com/ultras/zion/",
+   "Buckles Links": "http://i.imgur.com/Ew1Ab9I.jpg",
+   "Strava Links": "https://www.strava.com/activities/2287276372"
+},
+ {
+   "Race": "Dunes",
+   "Location": "Hobe Sound, FL",
+   "State": "FL",
+   "Date (Roughly)": "04/25",
+   "Reg Price": 195,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "20",
+   "Elevation Gain": "2,000",
+   "Sub 24": "19%",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.runtarheel.com/outer-banks-ultra.html",
+   "Buckles Links": "https://i.imgur.com/ygvqJKq.jpg",
+   "Strava Links": "https://www.strava.com/activities/1515140903/overview"
+},
+ {
+   "Race": "Salt Flats",
+   "Location": "Wendover, UT",
+   "State": "UT",
+   "Date (Roughly)": "05/01",
+   "Reg Price": 170,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "96",
+   "Elevation Gain": "5,500",
+   "Sub 24": "27%",
+   "AVG # Finishers": 31,
+   "Strava": "Strava",
+   "Updates": "04/03:  (Finally) updated February finish rates.\nUpdated Sustina, Jackpot, Outlaw buckles.  Updated Dunes date.",
+   "FIELD15": "",
+   "Event Info": "https://www.upstateultra.com/knock-on-wood.html",
+   "Buckles Links": "https://i.imgur.com/uU2oJEb.jpg",
+   "Strava Links": "https://www.strava.com/activities/2342579500"
+},
+ {
+   "Race": "Riverlands",
+   "Location": "Turner, ME",
+   "State": "ME",
+   "Date (Roughly)": "05/09",
+   "Reg Price": 160,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (10)"
+      }
+   },
+   "Unique Miles": "10",
+   "Elevation Gain": "14,000",
+   "Sub 24": "21%",
+   "AVG # Finishers": 28,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://cocanal100.com/",
+   "Buckles Links": "https://i.imgur.com/yNPh2GE.jpg",
+   "Strava Links": "https://www.strava.com/activities/964607157"
+},
+ {
+   "Race": "Night Stalker",
+   "Location": "Dover, TN",
+   "State": "TN",
+   "Date (Roughly)": "05/14",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "48",
+   "Elevation Gain": "8,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "PlotARoute",
+   "Updates": "04/05:  Added Grandmaster",
+   "FIELD15": "",
+   "Event Info": "http://www.downtorun.com/dunes-100-endurance-challenge/",
+   "Buckles Links": "http://i.imgur.com/S7Hege9.jpg",
+   "Strava Links": "https://www.strava.com/activities/2326955318/overview"
+},
+ {
+   "Race": "SaMo",
+   "Location": "Malibu, CA",
+   "State": "CA",
+   "Date (Roughly)": "05/14",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "50",
+   "Elevation Gain": "17,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "HelloDrifter",
+   "Updates": "05/31: (Finally) updated March finish rates.\nUpdated Lake Martin buckle.  Added White Mountain buckle.  \nAdded all Blackbeard's Revenge info.",
+   "FIELD15": "",
+   "Event Info": "http://saltflatsenduranceruns.com/",
+   "Buckles Links": "http://i.imgur.com/okCMruI.png",
+   "Strava Links": "https://www.strava.com/activities/962389233/overview"
+},
+ {
+   "Race": "Cruel Jewel*",
+   "Location": "Blairsville, GA",
+   "State": "GA",
+   "Date (Roughly)": "05/15",
+   "Reg Price": 190,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "57",
+   "Elevation Gain": "29,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 104,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.riverlands100.com/",
+   "Buckles Links": "https://i.imgur.com/uWDCgpy.jpg",
+   "Strava Links": "https://www.strava.com/activities/985171946"
+},
+ {
+   "Race": "Keys",
+   "Location": "Key West, Florida",
+   "State": "FL",
+   "Date (Roughly)": "05/16",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "1,000",
+   "Sub 24": "28%",
+   "AVG # Finishers": 133,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Massanutten",
+   "Location": "Fort Valley, VA",
+   "State": "VA",
+   "Date (Roughly)": "05/16",
+   "Reg Price": 185,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "97",
+   "Elevation Gain": "20,500",
+   "Sub 24": "10%",
+   "AVG # Finishers": 124,
+   "Strava": "Strava",
+   "Updates": "06/01:  (Finally) updated April finish rates.\nUpdated BLU, C&O Canal buckles.  Added OBX buckle.\nMoved Lumberjack to June.",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Pigtails Challenge",
+   "Location": "Renton, WA",
+   "State": "WA",
+   "Date (Roughly)": "05/21",
+   "Reg Price": 130,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (10)"
+      }
+   },
+   "Unique Miles": "10",
+   "Elevation Gain": "6,000",
+   "Sub 24": "33%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.dumassevents.com/",
+   "Buckles Links": "http://i.imgur.com/mhSrRRQ.jpg",
+   "Strava Links": "https://www.strava.com/activities/2384221766"
+},
+ {
+   "Race": "Veterans Memorial 150",
+   "Location": "Ludington, MI",
+   "State": "MI",
+   "Date (Roughly)": "05/23",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "150",
+   "Elevation Gain": "2,500",
+   "Sub 24": "",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.keys100.com/",
+   "Buckles Links": "http://i.imgur.com/I1VXv56.png",
+   "Strava Links": "https://www.strava.com/activities/2379437383/overview"
+},
+ {
+   "Race": "Badger Mountain",
+   "Location": "Richland, WA",
+   "State": "WA",
+   "Date (Roughly)": "05/29",
+   "Reg Price": 140,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "27",
+   "Elevation Gain": "16,500",
+   "Sub 24": "38%",
+   "AVG # Finishers": 61,
+   "Strava": "Strava",
+   "Updates": "06/02:  Updated Zion Strava",
+   "FIELD15": "",
+   "Event Info": "http://www.vhtrc.org/mmt19/",
+   "Buckles Links": "http://i.imgur.com/u8AO63z.jpg",
+   "Strava Links": "https://www.strava.com/activities/977525004"
+},
+ {
+   "Race": "Infinitus",
+   "Location": "Goshen, VT",
+   "State": "VT",
+   "Date (Roughly)": "05/29",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (7)"
+      }
+   },
+   "Unique Miles": "24",
+   "Elevation Gain": "16,000",
+   "Sub 24": "2%",
+   "AVG # Finishers": 24,
+   "Strava": "Strava",
+   "Updates": "06/05:  Updated May finish rates.\nUpdated Sulphur Springs, Nanny Goat, Kettle Moraine (!) buckles.                                 Added Screaming Monkey, Harbison, Knock On Wood, Sangre de Cristo",
+   "FIELD15": "",
+   "Event Info": "https://www.nwenduranceevents.com/events/pigtails/",
+   "Buckles Links": "http://i.imgur.com/8rXJ6u2.jpg?1",
+   "Strava Links": "https://www.strava.com/activities/1008425363"
+},
+ {
+   "Race": "Bryce",
+   "Location": "Bryce Canyon, UT",
+   "State": "UT",
+   "Date (Roughly)": "05/30",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "51",
+   "Elevation Gain": "15,000",
+   "Sub 24": "7%",
+   "AVG # Finishers": 84,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.vm150.com/",
+   "Buckles Links": "https://i.imgur.com/gpDQnHc.jpg",
+   "Strava Links": "https://www.strava.com/activities/2400339954"
+},
+ {
+   "Race": "Hell Hole",
+   "Location": "Bethera, SC",
+   "State": "SC",
+   "Date (Roughly)": "05/30",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (6)"
+      }
+   },
+   "Unique Miles": "16",
+   "Elevation Gain": "600",
+   "Sub 24": "21%",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.badgermountainchallenge.com/",
+   "Buckles Links": "http://i.imgur.com/HU9KYG2.jpg",
+   "Strava Links": "https://www.strava.com/activities/913296835"
+},
+ {
+   "Race": "Lighthouse",
+   "Location": "Petoskey, MI",
+   "State": "MI",
+   "Date (Roughly)": "05/30",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "3,500",
+   "Sub 24": "41%",
+   "AVG # Finishers": 36,
+   "Strava": "Strava",
+   "Updates": "06/07:  Updated Scout course.",
+   "FIELD15": "",
+   "Event Info": "http://www.endurancesociety.org/infinitus.html",
+   "Buckles Links": "https://i.imgur.com/8m4On3u.jpg",
+   "Strava Links": "https://www.strava.com/activities/1615085579/overview"
+},
+ {
+   "Race": "Connecticut Ultra Traverse",
+   "Location": "Suffield, CT",
+   "State": "CT",
+   "Date (Roughly)": "05/31",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "112",
+   "Elevation Gain": "17,000",
+   "Sub 24": "",
+   "AVG # Finishers": 7,
+   "Strava": "Strava",
+   "Updates": "06/11:  UK:  Added Tyne Trail North, Pen Llyn Ultra, Northern Traverse",
+   "FIELD15": "",
+   "Event Info": "https://vacationraces.com/ultras/bryce-canyon/",
+   "Buckles Links": "http://i.imgur.com/w6zVXeT.jpg",
+   "Strava Links": ""
+},
+ {
+   "Race": "San Diego",
+   "Location": "Lake Cuyamaca, CA",
+   "State": "CA",
+   "Date (Roughly)": "06/05",
+   "Reg Price": 280,
+   "Lottery": "01/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "76",
+   "Elevation Gain": "14,000",
+   "Sub 24": "14%",
+   "AVG # Finishers": 167,
+   "Strava": "Strava",
+   "Updates": "06/12:  UK:  Added 1066, Thames Ring 250, Grim Reaper",
+   "FIELD15": "",
+   "Event Info": "http://www.eagle-endurance.com/",
+   "Buckles Links": "http://i.imgur.com/FZv1poM.jpg?1",
+   "Strava Links": "https://www.strava.com/activities/1022747239/overview"
+},
+ {
+   "Race": "Scout Mountain",
+   "Location": "Pocatello, ID",
+   "State": "ID",
+   "Date (Roughly)": "06/05",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "98",
+   "Elevation Gain": "24,000",
+   "Sub 24": "21%",
+   "AVG # Finishers": 31,
+   "Strava": "Strava",
+   "Updates": "06/13:  Updated Bryce date and website.",
+   "FIELD15": "",
+   "Event Info": "http://www.lighthouse100ultra.com/",
+   "Buckles Links": "https://i.imgur.com/jh8fsk5.jpg",
+   "Strava Links": "https://www.strava.com/activities/1032497516"
+},
+ {
+   "Race": "Eagle Up",
+   "Location": "Canton, OH",
+   "State": "OH",
+   "Date (Roughly)": "06/06",
+   "Reg Price": 135,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (20)"
+      }
+   },
+   "Unique Miles": "5",
+   "Elevation Gain": "300",
+   "Sub 24": "100%",
+   "AVG # Finishers": 14,
+   "Strava": "Strava",
+   "Updates": "06/14:  UK:  Added Grand Union, Kennet & Avon, Leeds & Liverpool, Peak District",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Loco Challenge",
+   "Location": "Butte Meadows, CA",
+   "State": "CA",
+   "Date (Roughly)": "06/06",
+   "Reg Price": 190,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "65",
+   "Elevation Gain": "9,500",
+   "Sub 24": "17%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.sandiego100.com/",
+   "Buckles Links": "https://i.imgur.com/mbQFGgu.jpg",
+   "Strava Links": "https://www.strava.com/activities/1030620565"
+},
+ {
+   "Race": "Old Dominion",
+   "Location": "Fort Valley, VA",
+   "State": "VA",
+   "Date (Roughly)": "06/06",
+   "Reg Price": 185,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "83",
+   "Elevation Gain": "14,000",
+   "Sub 24": "66%",
+   "AVG # Finishers": 48,
+   "Strava": "Strava",
+   "Updates": "06/16:  UK: Added Spine Strava, updated Pennine Barrier route.\nAdded Connemara, Dublin to Belfast, Viking Way, Lon Las Cymru, Viking 100, D99",
+   "FIELD15": "",
+   "Event Info": "https://scoutmountainultras.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2415119552/overview"
+},
+ {
+   "Race": "Gaspesia",
+   "Location": "Quebec, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "06/19",
+   "Reg Price": 230,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "35",
+   "Elevation Gain": "19,000",
+   "Sub 24": "40%",
+   "AVG # Finishers": 7,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.runcanton.com/eagle-up-ultra",
+   "Buckles Links": "https://i.imgur.com/AwqblqZ.jpg?1",
+   "Strava Links": "https://www.strava.com/activities/2435217551"
+},
+ {
+   "Race": "Gaspesia 150",
+   "Location": "Quebec, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "06/19",
+   "Reg Price": 230,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": ""
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "",
+   "Sub 24": "14%",
+   "AVG # Finishers": 7,
+   "Strava": "",
+   "Updates": "06/17:  Discovered KML files and gpx compression.  Can now fit all gps routes into google.\nUK race map updated with (I believe) all UK 100+s that exist.",
+   "FIELD15": "",
+   "Event Info": "https://www.intrepidadventuresevents.com/100-mile-info",
+   "Buckles Links": "https://i.imgur.com/WdjoTqD.jpg",
+   "Strava Links": "https://www.strava.com/activities/2418257376"
+},
+ {
+   "Race": "Bighorn*",
+   "Location": "Dayton, WY",
+   "State": "WY",
+   "Date (Roughly)": "06/20",
+   "Reg Price": 300,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "52",
+   "Elevation Gain": "19,000",
+   "Sub 24": "5%",
+   "AVG # Finishers": 176,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.olddominionrun.org/",
+   "Buckles Links": "http://i.imgur.com/jkAhw5n.jpg",
+   "Strava Links": "https://www.strava.com/activities/1023075386"
+},
+ {
+   "Race": "Canadian River Valley Revenge",
+   "Location": "Edmonton, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "06/20",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "46",
+   "Elevation Gain": "11,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 4,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://gaspesia.org/en/ultra-trail-100-miles/",
+   "Buckles Links": "https://i.imgur.com/e5peSUc.jpg",
+   "Strava Links": "https://www.strava.com/activities/1647273509"
+},
+ {
+   "Race": "The Great New York 100",
+   "Location": "New York City, NY",
+   "State": "NY",
+   "Date (Roughly)": "06/20",
+   "Reg Price": 120,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "3,500",
+   "Sub 24": "31%",
+   "AVG # Finishers": 62,
+   "Strava": "Strava",
+   "Updates": "06/19:  Added Miami, Frozen:H3, Peak",
+   "FIELD15": "",
+   "Event Info": "https://gaspesia.org/en/ultra-trail-150-miles/",
+   "Buckles Links": "",
+   "Strava Links": "Loading..."
+},
+ {
+   "Race": "Black Hills",
+   "Location": "Sturgis, SD",
+   "State": "SD",
+   "Date (Roughly)": "06/26",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "53",
+   "Elevation Gain": "16,000",
+   "Sub 24": "9%",
+   "AVG # Finishers": 47,
+   "Strava": "Strava",
+   "Updates": "06/21:  Added Loco Challenge, Eagle Up, War Hammer, Canadian River Valley Revenge, Forbidden Forest",
+   "FIELD15": "",
+   "Event Info": "https://bighorntrailrun.com/",
+   "Buckles Links": "http://i.imgur.com/Lp35yjZ.jpg",
+   "Strava Links": "https://www.strava.com/activities/1043036628"
+},
+ {
+   "Race": "Strawberry Fields Forever",
+   "Location": "North Bonneville, WA",
+   "State": "WA",
+   "Date (Roughly)": "06/27",
+   "Reg Price": 100,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (16)"
+      }
+   },
+   "Unique Miles": "6",
+   "Elevation Gain": "3,200",
+   "Sub 24": "25%",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.canadianrivervalleyrevenge.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2456478332"
+},
+ {
+   "Race": "Western States",
+   "Location": "Squaw Valley, CA",
+   "State": "CA",
+   "Date (Roughly)": "06/27",
+   "Reg Price": 410,
+   "Lottery": "11/09",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "17,000",
+   "Sub 24": "38%",
+   "AVG # Finishers": 289,
+   "Strava": "Strava",
+   "Updates": "06/23:  Added Tulsa Urban Adventure, Farmdale, Halloween Hobble, Savage, Saddle2Surf, Midstate Massive, Saint Sebastian",
+   "FIELD15": "",
+   "Event Info": "http://www.tgny100.com/",
+   "Buckles Links": "https://i.imgur.com/eSLgECg.jpg",
+   "Strava Links": "https://www.strava.com/activities/1043345813"
+},
+ {
+   "Race": "Sinister 7",
+   "Location": "Alberta, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "07/03",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "91",
+   "Elevation Gain": "18,500",
+   "Sub 24": "16%",
+   "AVG # Finishers": 67,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://blackhills100.com/",
+   "Buckles Links": "https://i.imgur.com/QeXaKDv.jpg",
+   "Strava Links": "https://www.strava.com/activities/1052297197"
+},
+ {
+   "Race": "Denali 135",
+   "Location": "Paxson, AK",
+   "State": "AK",
+   "Date (Roughly)": "07/04",
+   "Reg Price": 485,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "135",
+   "Elevation Gain": "9,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "Strava",
+   "Updates": "06/24:  Map of all NA race routes is completed and uploaded!\nBroken up by month to help planning race calendars.\nAdded Capes, Badger.",
+   "FIELD15": "",
+   "Event Info": "https://columbiagorgerunningclub.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2493880308"
+},
+ {
+   "Race": "Badwater 135",
+   "Location": "Furnace Creek, CA",
+   "State": "CA",
+   "Date (Roughly)": "07/06",
+   "Reg Price": 1495,
+   "Lottery": "01/24",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "135",
+   "Elevation Gain": "15,000",
+   "Sub 24": "",
+   "AVG # Finishers": 74,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.wser.org/",
+   "Buckles Links": "http://i.imgur.com/Shbduhq.jpg",
+   "Strava Links": "https://www.strava.com/running-races/2017-western-states"
+},
+ {
+   "Race": "Cry Me A River",
+   "Location": "Chillicothe, IL",
+   "State": "IL",
+   "Date (Roughly)": "07/10",
+   "Reg Price": 100,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (5)"
+      }
+   },
+   "Unique Miles": "11",
+   "Elevation Gain": "20,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.sinister7.com/",
+   "Buckles Links": "https://i.imgur.com/gNGuUPA.jpg",
+   "Strava Links": "https://www.strava.com/activities/1075728729/overview"
+},
+ {
+   "Race": "Devil's Gulch",
+   "Location": "Wenatchee, WA",
+   "State": "WA",
+   "Date (Roughly)": "07/10",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "38",
+   "Elevation Gain": "25,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "07/02:  Added Badwater, Tuscobia, Actif Epica, Arrowhead, Iron Horse (CAN), Mines of Spaine, Whistler Alpine Meadow.\nJanuary - May updated websites, registration prices and dates.",
+   "FIELD15": "",
+   "Event Info": "http://spirit-trips.com/denali-135/",
+   "Buckles Links": "https://i.imgur.com/cH8i2qE.jpg",
+   "Strava Links": "https://www.strava.com/routes/21281016"
+},
+ {
+   "Race": "Canal Corridor",
+   "Location": "Akron, OH",
+   "State": "OH",
+   "Date (Roughly)": "07/11",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "49",
+   "Elevation Gain": "1,500",
+   "Sub 24": "34%",
+   "AVG # Finishers": 48,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.badwater.com/event/badwater-135/",
+   "Buckles Links": "https://i.imgur.com/etQamQT.jpg",
+   "Strava Links": "https://www.strava.com/activities/1728164611"
+},
+ {
+   "Race": "Honey Badger",
+   "Location": "Kingman County, KS",
+   "State": "KS",
+   "Date (Roughly)": "07/11",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "96",
+   "Elevation Gain": "2,000",
+   "Sub 24": "28%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.crymearivertrailruns.com/home.html",
+   "Buckles Links": "https://i.imgur.com/pZ2galG.jpg?1",
+   "Strava Links": "https://www.strava.com/activities/1075683414/overview"
+},
+ {
+   "Race": "Silverheels",
+   "Location": "Fairplay, CO",
+   "State": "CO",
+   "Date (Roughly)": "07/11",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "55",
+   "Elevation Gain": "16,500",
+   "Sub 24": "0%",
+   "AVG # Finishers": 21,
+   "Strava": "Strava",
+   "Updates": "07/03:  Removed Santa Barbara\nJune - December updated websites, registration prices and dates.\nAdded Maah Daah Hey 150\nUSA map updated.",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/Harbison100",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2289962349"
+},
+ {
+   "Race": "Viaduct Trail",
+   "Location": "Oakland, PA",
+   "State": "PA",
+   "Date (Roughly)": "07/11",
+   "Reg Price": 0,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "13",
+   "Elevation Gain": "4,000",
+   "Sub 24": "24%",
+   "AVG # Finishers": 11,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "California Untamed",
+   "Location": "Arcata, CA",
+   "State": "CA",
+   "Date (Roughly)": "07/16",
+   "Reg Price": 1300,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "324",
+   "Elevation Gain": "50,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "CalTopo",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://runningforwardandgivingback.com/canal-corridor-100",
+   "Buckles Links": "https://i.imgur.com/BjSkWKu.jpg",
+   "Strava Links": "https://www.strava.com/activities/1074319316/overview"
+},
+ {
+   "Race": "Hardrock*",
+   "Location": "Silverton, CO",
+   "State": "CO",
+   "Date (Roughly)": "07/17",
+   "Reg Price": 325,
+   "Lottery": "11/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "33,000",
+   "Sub 24": "1%",
+   "AVG # Finishers": 118,
+   "Strava": "Strava",
+   "Updates": "07/26:  Updated June finish rates.\nRemoved Forbidden Forest.",
+   "FIELD15": "",
+   "Event Info": "http://www.honeybadger100.com/race-information.html",
+   "Buckles Links": "http://i.imgur.com/67dYiyg.jpg?1",
+   "Strava Links": "https://www.strava.com/activities/1690980436/overview"
+},
+ {
+   "Race": "Palisades",
+   "Location": "Irwin, ID",
+   "State": "ID",
+   "Date (Roughly)": "07/17",
+   "Reg Price": 300,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1) / L (1)"
+      }
+   },
+   "Unique Miles": "72",
+   "Elevation Gain": "27,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 14,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.grandmesaultras.com/",
+   "Buckles Links": "https://i.imgur.com/epBWmUK.jpg",
+   "Strava Links": "https://www.strava.com/activities/1736390914"
+},
+ {
+   "Race": "Tahoe Rim Trail",
+   "Location": "Carson City, NV",
+   "State": "NV",
+   "Date (Roughly)": "07/18",
+   "Reg Price": 290,
+   "Lottery": "12/06",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "40",
+   "Elevation Gain": "17,500",
+   "Sub 24": "10%",
+   "AVG # Finishers": 149,
+   "Strava": "Strava",
+   "Updates": "08/23:  Updated Hellbender Strava.  Added Capes buckle.  \nAdded Denali 135, Shippey",
+   "FIELD15": "",
+   "Event Info": "http://humanpotentialrunning.com/silverheels-100/",
+   "Buckles Links": "http://i.imgur.com/WXyIFFH.jpg",
+   "Strava Links": "https://www.strava.com/activities/669181602"
+},
+ {
+   "Race": "Vermont",
+   "Location": "West Windsor, VT",
+   "State": "VT",
+   "Date (Roughly)": "07/18",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "99",
+   "Elevation Gain": "15,000",
+   "Sub 24": "44%",
+   "AVG # Finishers": 234,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://sites.google.com/site/viaducttrailultramarathon/home",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1109134458"
+},
+ {
+   "Race": "Ouray",
+   "Location": "Ouray, CO",
+   "State": "CO",
+   "Date (Roughly)": "07/24",
+   "Reg Price": 295,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "52",
+   "Elevation Gain": "43,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 28,
+   "Strava": "Strava",
+   "Updates": "08/24:  Removed Pennine Barrier. \nAdded Ultra Scotland (UK), Tuscazoar, Temptation, Coastal Georgia Greenway 100 & 155, Lake Murray, Ultra Trail Lake Tahoe",
+   "FIELD15": "",
+   "Event Info": "http://www.trailracingovertexas.com/lone-star-100/",
+   "Buckles Links": "https://i.imgur.com/bvToRFG.jpg",
+   "Strava Links": "https://www.strava.com/activities/864749789/overview"
+},
+ {
+   "Race": "Maah Daah Hey 106",
+   "Location": "Watford City, ND",
+   "State": "ND",
+   "Date (Roughly)": "07/25",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "106",
+   "Elevation Gain": "11,500",
+   "Sub 24": "0%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "High Lonesome*",
+   "Location": "Salida, CO",
+   "State": "CO",
+   "Date (Roughly)": "07/31",
+   "Reg Price": 310,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "85",
+   "Elevation Gain": "22,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 69,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.hardrock100.com/",
+   "Buckles Links": "http://i.imgur.com/pZYuzxo.jpg",
+   "Strava Links": "https://www.strava.com/activities/643905080"
+},
+ {
+   "Race": "Angeles Crest*",
+   "Location": "Wrightwood, CA",
+   "State": "CA",
+   "Date (Roughly)": "08/01",
+   "Reg Price": 360,
+   "Lottery": "12/09",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "18,500",
+   "Sub 24": "11%",
+   "AVG # Finishers": 123,
+   "Strava": "Strava",
+   "Updates": "08/25:  Made Registration Price Average not look like garbage.",
+   "FIELD15": "",
+   "Event Info": "https://palisadesultra.com/",
+   "Buckles Links": "https://i.imgur.com/QNR5n3O.jpg",
+   "Strava Links": "https://www.strava.com/activities/1735718613"
+},
+ {
+   "Race": "Bigfoot 200",
+   "Location": "Mount St. Helens, WA",
+   "State": "WA",
+   "Date (Roughly)": "08/07",
+   "Reg Price": 1095,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "201",
+   "Elevation Gain": "43,000",
+   "Sub 24": "",
+   "AVG # Finishers": 98,
+   "Strava": "Strava",
+   "Updates": "09/25:  Updated July Finish rates.\nAdded Strawberry Fields Forever.  Removed Grand Mesa.",
+   "FIELD15": "",
+   "Event Info": "http://trter.com/",
+   "Buckles Links": "https://i.imgur.com/ySnoZr7.jpg",
+   "Strava Links": "https://www.strava.com/activities/646190574"
+},
+ {
+   "Race": "Fat Dog 120*",
+   "Location": "BC, Canada",
+   "State": "CAN",
+   "Date (Roughly)": "08/07",
+   "Reg Price": 296,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "120",
+   "Elevation Gain": "27,000",
+   "Sub 24": "26%",
+   "AVG # Finishers": 104,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://vermont100.com/",
+   "Buckles Links": "http://i.imgur.com/k61Y2s5.jpg",
+   "Strava Links": "https://www.strava.com/activities/1086887905/overview"
+},
+ {
+   "Race": "Shippey",
+   "Location": "High Ridge, MO",
+   "State": "MO",
+   "Date (Roughly)": "08/07",
+   "Reg Price": 195,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "13,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 3,
+   "Strava": "Strava",
+   "Updates": "10/07:  Updated Mountain Lakes price and lottery date.  Updated Cascade Crest buckle.\nAdded note for Angeles Crest \"Second Sunrise\" buckle finish rate.\nUpdated Ute date.  Updated August Finish rates. \nAdded Mighty Mosquito and Foxtail.",
+   "FIELD15": "",
+   "Event Info": "https://www.ouray100.com/",
+   "Buckles Links": "http://i.imgur.com/yEAvs3A.jpg",
+   "Strava Links": "https://www.strava.com/activities/1815713021"
+},
+ {
+   "Race": "Badger",
+   "Location": "Belleville, WI",
+   "State": "WI",
+   "Date (Roughly)": "08/08",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1.5)"
+      }
+   },
+   "Unique Miles": "35",
+   "Elevation Gain": "2,000",
+   "Sub 24": "9%",
+   "AVG # Finishers": 89,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "https://i.imgur.com/J0muUr8.jpg",
+   "Strava Links": "https://www.strava.com/activities/685498542/overview"
+},
+ {
+   "Race": "Cool Moon",
+   "Location": "Cool, CA",
+   "State": "CA",
+   "Date (Roughly)": "08/08",
+   "Reg Price": 215,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "23",
+   "Elevation Gain": "16,000",
+   "Sub 24": "9%",
+   "AVG # Finishers": 7,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.highlonesome100.com/",
+   "Buckles Links": "https://i.imgur.com/SSdjHeU.jpg",
+   "Strava Links": "https://www.strava.com/activities/1752083864"
+},
+ {
+   "Race": "Eastern States",
+   "Location": "Waterville, PA",
+   "State": "PA",
+   "Date (Roughly)": "08/08",
+   "Reg Price": 190,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "21,000",
+   "Sub 24": "3%",
+   "AVG # Finishers": 107,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.ac100.com/index.asp",
+   "Buckles Links": "https://i.imgur.com/6AmMzvZ.jpg",
+   "Strava Links": "https://www.strava.com/activities/1120253355"
+},
+ {
+   "Race": "Mighty Mosquito",
+   "Location": "Honeoye Falle, NY",
+   "State": "NY",
+   "Date (Roughly)": "08/08",
+   "Reg Price": 100,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (18)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "9,000",
+   "Sub 24": "25%",
+   "AVG # Finishers": 4,
+   "Strava": "Strava",
+   "Updates": "10/09:  Updated Hallucination buckle.  Added Pine Creek Challenge, Whistler Alpine Meadow buckles.\nUpdated September Finish rates.\nUpdated Miami Strava.",
+   "FIELD15": "",
+   "Event Info": "https://www.bigfoot200.com/",
+   "Buckles Links": "https://i.imgur.com/3P5thNR.jpg",
+   "Strava Links": "https://www.strava.com/activities/1149185564"
+},
+ {
+   "Race": "Resurrection Pass",
+   "Location": "Hope, AK",
+   "State": "AK",
+   "Date (Roughly)": "08/08",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "n/a?",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "53",
+   "Elevation Gain": "9,500",
+   "Sub 24": "33%",
+   "AVG # Finishers": 7,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://fatdog120.ca/",
+   "Buckles Links": "https://i.imgur.com/ysq2dUo.jpg",
+   "Strava Links": "https://www.strava.com/activities/677165032"
+},
+ {
+   "Race": "Ute",
+   "Location": "La Sal, Utah",
+   "State": "UT",
+   "Date (Roughly)": "08/08",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "96",
+   "Elevation Gain": "20,000",
+   "Sub 24": "2%",
+   "AVG # Finishers": 72,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/ShippeyEndurance/",
+   "Buckles Links": "https://i.imgur.com/KxaBgpd.jpg",
+   "Strava Links": "https://www.strava.com/activities/2588223402/overview"
+},
+ {
+   "Race": "Capes",
+   "Location": "Nova Scoatia, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "08/15",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1), O (1)"
+      }
+   },
+   "Unique Miles": "65",
+   "Elevation Gain": "13,000",
+   "Sub 24": "11%",
+   "AVG # Finishers": 57,
+   "Strava": "Strava",
+   "Updates": "10/15:  Added Olde 96er 200.  Updated Olde 96er 100/200 buckles\nAdded Temptation 200k Strava and updated buckle",
+   "FIELD15": "",
+   "Event Info": "https://www.tenjunkmiles.com/badger-100/",
+   "Buckles Links": "https://i.imgur.com/qm661tP.jpg",
+   "Strava Links": "https://www.strava.com/activities/2591562317"
+},
+ {
+   "Race": "Habenero Hundred",
+   "Location": "Smithville, TX",
+   "State": "TX",
+   "Date (Roughly)": "08/15",
+   "Reg Price": 170,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (16)"
+      }
+   },
+   "Unique Miles": "6",
+   "Elevation Gain": "4,500",
+   "Sub 24": "12%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.coolmoontrailraces.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/72429816"
+},
+ {
+   "Race": "Lean Horse",
+   "Location": "Custer, SD",
+   "State": "SD",
+   "Date (Roughly)": "08/15",
+   "Reg Price": 260,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "51",
+   "Elevation Gain": "5,000",
+   "Sub 24": "30%",
+   "AVG # Finishers": 47,
+   "Strava": "Strava",
+   "Updates": "10/20:  Added Badger Buckle and results.\nAdded Midstate Massive Buckle and Strava.  Updated new Zion course.\nAdded Farmdale buckle",
+   "FIELD15": "",
+   "Event Info": "https://easternstates100.com/",
+   "Buckles Links": "http://i.imgur.com/6qumAYr.jpg",
+   "Strava Links": "https://www.strava.com/activities/1131588753/overview"
+},
+ {
+   "Race": "Wyoming Range",
+   "Location": "Hoback, WY",
+   "State": "WY",
+   "Date (Roughly)": "08/21",
+   "Reg Price": 270,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "96",
+   "Elevation Gain": "28,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "CalTopo",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://ultrasignup.com/register.aspx?did=70151",
+   "Buckles Links": "https://i.imgur.com/cHuHQ9G.jpg",
+   "Strava Links": "https://www.strava.com/activities/2590819374"
+},
+ {
+   "Race": "Burning River",
+   "Location": "Willoughby Hills, OH",
+   "State": "OH",
+   "Date (Roughly)": "08/22",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "7,500",
+   "Sub 24": "27%",
+   "AVG # Finishers": 150,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.rpultras.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1767834861"
+},
+ {
+   "Race": "Foxtail Hundred",
+   "Location": "Ontario, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "08/22",
+   "Reg Price": 112,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (3)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "2,500",
+   "Sub 24": "63%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "10/31: Updated Foxtail Buckles to include Sub 24, Finisher and 29th Hour buckles.",
+   "FIELD15": "",
+   "Event Info": "https://www.runbumtours.com/ute-100-la-sal-utah",
+   "Buckles Links": "https://i.imgur.com/YsMwtwO.jpg",
+   "Strava Links": "https://www.strava.com/activities/2606055422"
+},
+ {
+   "Race": "Leadville",
+   "Location": "Leadville, CO",
+   "State": "CO",
+   "Date (Roughly)": "08/22",
+   "Reg Price": 335,
+   "Lottery": "12/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "51",
+   "Elevation Gain": "18,000",
+   "Sub 24": "15%",
+   "AVG # Finishers": 348,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.capes100.com/",
+   "Buckles Links": "https://i.imgur.com/CAB3Gpw.jpg",
+   "Strava Links": "https://www.strava.com/activities/2630762762/overview"
+},
+ {
+   "Race": "Shawnee Hills",
+   "Location": "Ozark, IL",
+   "State": "IL",
+   "Date (Roughly)": "08/22",
+   "Reg Price": 195,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "29",
+   "Elevation Gain": "21,500",
+   "Sub 24": "4%",
+   "AVG # Finishers": 10,
+   "Strava": "Strava",
+   "Updates": "11/06:  Updated San Diego Buckles",
+   "FIELD15": "",
+   "Event Info": "http://www.trailracingovertexas.com/habanero-hundred/",
+   "Buckles Links": "http://i.imgur.com/BY9Bg47.jpg",
+   "Strava Links": "https://www.strava.com/activities/376167444/overview"
+},
+ {
+   "Race": "Cascade Crest*",
+   "Location": "Easton, WA",
+   "State": "WA",
+   "Date (Roughly)": "08/29",
+   "Reg Price": 300,
+   "Lottery": "01/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "22,500",
+   "Sub 24": "16%",
+   "AVG # Finishers": 129,
+   "Strava": "Strava",
+   "Updates": "11/08:  Updated Finish rates for sub_ buckles of Tahoe Rim Trail, Leadville, Angeles Crest, Wasatch",
+   "FIELD15": "",
+   "Event Info": "https://leanhorse100.com/",
+   "Buckles Links": "https://i.imgur.com/7Nj2koC.jpg",
+   "Strava Links": "https://www.strava.com/activities/184652886/overview"
+},
+ {
+   "Race": "Oregon Cascades",
+   "Location": "Sisters, OR",
+   "State": "OR",
+   "Date (Roughly)": "08/29",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "93",
+   "Elevation Gain": "9,500",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "CalTopo",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.everlongendurance.com/wyomingrange",
+   "Buckles Links": "https://i.imgur.com/oavUm1V.jpg",
+   "Strava Links": "https://caltopo.com/m/57A4"
+},
+ {
+   "Race": "Booneville",
+   "Location": "Booneville, IA",
+   "State": "IA",
+   "Date (Roughly)": "09/05",
+   "Reg Price": 100,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "79",
+   "Elevation Gain": "6,500",
+   "Sub 24": "23%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "11/21:  Removed Warhammer",
+   "FIELD15": "",
+   "Event Info": "https://www.westernreserveracing.com/events/burning-river-endurance-runs-relay/",
+   "Buckles Links": "http://i.imgur.com/K010XjV.jpg",
+   "Strava Links": "https://www.strava.com/activities/669156353/overview"
+},
+ {
+   "Race": "Hawk",
+   "Location": "Lawrence, KS",
+   "State": "KS",
+   "Date (Roughly)": "09/05",
+   "Reg Price": 190,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "21",
+   "Elevation Gain": "6,000",
+   "Sub 24": "15%",
+   "AVG # Finishers": 29,
+   "Strava": "Strava",
+   "Updates": "11/22:  Added Ultra Trail lake Tahoe, Moab 240 buckles.  Updated Cloudsplitter, Tesla Hertz, Cactus Rose, Pumpkin Holler buckles.  \nAdded Ultra Trail Lake Tahoe Strava.  Updated Pumpkin Holler Strava.  Added Lake Murray and Midnight Moose. Updated October results.",
+   "FIELD15": "",
+   "Event Info": "https://www.happytrailsracing.com/races",
+   "Buckles Links": "https://i.imgur.com/ftE4pc4.jpg",
+   "Strava Links": "https://www.strava.com/activities/2648973320"
+},
+ {
+   "Race": "Nanny Goat",
+   "Location": "Riverside, CA",
+   "State": "CA",
+   "Date (Roughly)": "09/05",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (100)"
+      }
+   },
+   "Unique Miles": "1",
+   "Elevation Gain": "3,000",
+   "Sub 24": "47%",
+   "AVG # Finishers": 25,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.leadvilleraceseries.com/run/leadvilletrail100run/",
+   "Buckles Links": "https://i.imgur.com/84TCsdS.jpg",
+   "Strava Links": "https://www.strava.com/activities/345433966/overview"
+},
+ {
+   "Race": "Temptation 200K",
+   "Location": "Forest City, IL",
+   "State": "IL",
+   "Date (Roughly)": "09/05",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (8)"
+      }
+   },
+   "Unique Miles": "15",
+   "Elevation Gain": "7,000",
+   "Sub 24": "",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.leadvilleraceseries.com/run/leadvilletrail100run/",
+   "Buckles Links": "https://i.imgur.com/84TCsdS.jpg",
+   "Strava Links": "https://www.strava.com/activities/345433966/overview"
+},
+ {
+   "Race": "Tuscazoar",
+   "Location": "Dover, OH",
+   "State": "OH",
+   "Date (Roughly)": "09/05",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "18",
+   "Elevation Gain": "10,000",
+   "Sub 24": "15%",
+   "AVG # Finishers": 13,
+   "Strava": "Strava",
+   "Updates": "11/25: Updated Whistler Strava, Elevation, Buckle and Unique Miles.",
+   "FIELD15": "",
+   "Event Info": "http://www.cascadecrest100.com/",
+   "Buckles Links": "https://i.imgur.com/Jq5Ym1J.jpg",
+   "Strava Links": "https://www.strava.com/activities/692666411"
+},
+ {
+   "Race": "Wildcat",
+   "Location": "Pensacola, FL",
+   "State": "FL",
+   "Date (Roughly)": "09/05",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (40)"
+      }
+   },
+   "Unique Miles": "2",
+   "Elevation Gain": "2,500",
+   "Sub 24": "8%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "12/01:  Removed Angelfire, Added Best of San Diego",
+   "FIELD15": "",
+   "Event Info": "https://www.alpinerunning.co/cascades100",
+   "Buckles Links": "",
+   "Strava Links": "https://caltopo.com/m/PMCN"
+},
+ {
+   "Race": "Hallucination",
+   "Location": "Pinckney, MI",
+   "State": "MI",
+   "Date (Roughly)": "09/11",
+   "Reg Price": 189,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (6)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "7,000",
+   "Sub 24": "25%",
+   "AVG # Finishers": 95,
+   "Strava": "Strava",
+   "Updates": "12/29:  Added Lost 118",
+   "FIELD15": "",
+   "Event Info": "http://boonevillebackroadsultra.com/",
+   "Buckles Links": "https://i.imgur.com/SOXeJwL.jpg",
+   "Strava Links": "https://www.strava.com/activities/1009458782"
+},
+ {
+   "Race": "Kodiak",
+   "Location": "Big Bear Lake, CA",
+   "State": "CA",
+   "Date (Roughly)": "09/11",
+   "Reg Price": 240,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "92",
+   "Elevation Gain": "17,000",
+   "Sub 24": "5%",
+   "AVG # Finishers": 50,
+   "Strava": "Strava",
+   "Updates": "01/08/2020:  Updated Children of the Cane, Chimera, Dinosaur Valley, Falls, Charleston Stravas.\nAdded Falls buckle.\nRemoved >30 finishers category and replaced with Average Number of Finishers (past three years).\nUpdated November and December finish rates.\nAdded Monadnock, Swamp Fox.",
+   "FIELD15": "",
+   "Event Info": "https://www.hawkhundred.com/",
+   "Buckles Links": "http://i.imgur.com/ns4Z5lE.png",
+   "Strava Links": "https://www.strava.com/activities/1830083590"
+},
+ {
+   "Race": "Lost Soul",
+   "Location": "Alberta, CAN",
+   "State": "CAN",
+   "Date (Roughly)": "09/11",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "33",
+   "Elevation Gain": "14,000",
+   "Sub 24": "8%",
+   "AVG # Finishers": 22,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://wildhorseracing.net/nanny-goat/",
+   "Buckles Links": "https://i.imgur.com/KEToMO0.jpg",
+   "Strava Links": "https://www.strava.com/activities/1111440269/overview"
+},
+ {
+   "Race": "Peak",
+   "Location": "Pittsfield, VT",
+   "State": "VT",
+   "Date (Roughly)": "09/11",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (10)"
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "",
+   "Sub 24": "0%",
+   "AVG # Finishers": 2,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.temptation200.com/",
+   "Buckles Links": "https://i.imgur.com/U5vcFjK.jpg",
+   "Strava Links": "https://www.strava.com/activities/2691303678"
+},
+ {
+   "Race": "Superior",
+   "Location": "Lutsen, MN",
+   "State": "MN",
+   "Date (Roughly)": "09/11",
+   "Reg Price": 265,
+   "Lottery": "01/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "18,500",
+   "Sub 24": "4%",
+   "AVG # Finishers": 172,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.race-brimstone.com/tuscazoar-100",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2670147232"
+},
+ {
+   "Race": "Tahoe 200",
+   "Location": "Homewood, CA",
+   "State": "CA",
+   "Date (Roughly)": "09/11",
+   "Reg Price": 1095,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "195",
+   "Elevation Gain": "39,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://aaronthompson21.wixsite.com/wildcat100",
+   "Buckles Links": "http://i.imgur.com/yi7Gx6R.jpg",
+   "Strava Links": "https://www.strava.com/activities/700098736/overview"
+},
+ {
+   "Race": "Three Bears",
+   "Location": "Perston, ID",
+   "State": "ID",
+   "Date (Roughly)": "09/11",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "56",
+   "Elevation Gain": "19,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 2,
+   "Strava": "Strava",
+   "Updates": "01/09:  Removed Franklins and Lonestar.\nAdded Skydive Strava.",
+   "FIELD15": "",
+   "Event Info": "http://www.runwoodstock.com",
+   "Buckles Links": "https://i.imgur.com/FnY8P2h.jpg",
+   "Strava Links": "https://www.strava.com/activities/1178283137"
+},
+ {
+   "Race": "Wasatch*",
+   "Location": "Kaysville, UT",
+   "State": "UT",
+   "Date (Roughly)": "09/11",
+   "Reg Price": 275,
+   "Lottery": "12/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "99",
+   "Elevation Gain": "24,000",
+   "Sub 24": "3%",
+   "AVG # Finishers": 199,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.kodiak100.com/",
+   "Buckles Links": "http://i.imgur.com/qCU3TQ0.jpg?1",
+   "Strava Links": ""
+},
+ {
+   "Race": "Haliburton",
+   "Location": "Haliburton, ON",
+   "State": "CAN",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 136,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "15,000",
+   "Sub 24": "24%",
+   "AVG # Finishers": 25,
+   "Strava": "Strava",
+   "Updates": "02/03:  Avg Finishers done through April.  Updated Dunes course.",
+   "FIELD15": "",
+   "Event Info": "http://lostsoulultra.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1828202519"
+},
+ {
+   "Race": "IMTUF*",
+   "Location": "McCall, ID",
+   "State": "ID",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "101",
+   "Elevation Gain": "17,500",
+   "Sub 24": "4%",
+   "AVG # Finishers": 111,
+   "Strava": "Strava",
+   "Updates": "02/05:  Added Peak buckle and # of loops. Avg Finishers through May.\nAdded Tuscazoar buckle",
+   "FIELD15": "",
+   "Event Info": "http://peakraces.com/running-races/peak-ultra/",
+   "Buckles Links": "https://i.imgur.com/5wnQSh2.jpg",
+   "Strava Links": "https://www.strava.com/activities/2360093740"
+},
+ {
+   "Race": "Mogollon Monster*",
+   "Location": "Pine, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 290,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "67",
+   "Elevation Gain": "17,000",
+   "Sub 24": "7%",
+   "AVG # Finishers": 67,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.superiorfalltrailrace.com/",
+   "Buckles Links": "http://i.imgur.com/SxyGqq9.jpg",
+   "Strava Links": "https://www.strava.com/activities/709010193"
+},
+ {
+   "Race": "Pine Creek Challenge",
+   "Location": "Wellsboro, PA",
+   "State": "PA",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 165,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "1,000",
+   "Sub 24": "32%",
+   "AVG # Finishers": 32,
+   "Strava": "Strava",
+   "Updates": "02/07:  Avg Finishers through June.",
+   "FIELD15": "",
+   "Event Info": "http://www.tahoe200.com/",
+   "Buckles Links": "https://i.imgur.com/hY1GbQD.jpg",
+   "Strava Links": "https://www.strava.com/activities/1833265512/overview"
+},
+ {
+   "Race": "Pine to Palm",
+   "Location": "Williams, OR",
+   "State": "OR",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "21,000",
+   "Sub 24": "19%",
+   "AVG # Finishers": 101,
+   "Strava": "Strava",
+   "Updates": "02/10:  Avg Finishers through July.  Updated (lowered!) Denali price.  Added Badwater Lottery date and updated lottery dates.",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Teanaway Country",
+   "Location": "Cle Elum, WA",
+   "State": "WA",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "46",
+   "Elevation Gain": "29,000",
+   "Sub 24": "6%",
+   "AVG # Finishers": 51,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.wasatch100.com/",
+   "Buckles Links": "http://i.imgur.com/jiNE303.jpg",
+   "Strava Links": "https://www.strava.com/activities/1175328521"
+},
+ {
+   "Race": "Wawayanda",
+   "Location": "Hewitt, NJ",
+   "State": "NJ",
+   "Date (Roughly)": "09/12",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "10,500",
+   "Sub 24": "25%",
+   "AVG # Finishers": 7,
+   "Strava": "Strava",
+   "Updates": "02/13:  Added Long Haul <24 buckle. Updated January finish rates.\nAdded Wild Florida 120, Pier 2 Pier 200k, Midwest Everest, Oregon Cascades, Wyoming Range, Stuffed Turkey, Across Florida 200, Rim To River, Deadman Peaks, Coyote Two Moon, Yeti Washington, Gaspesia 150, Mountaineer Rumble, TWOT, Hot TWOT, Destin Beach, Rim To River.",
+   "FIELD15": "",
+   "Event Info": "http://www.haliburtonforest100.org/",
+   "Buckles Links": "http://i.imgur.com/wfjTvti.jpg?1",
+   "Strava Links": "https://www.strava.com/activities/1178484826"
+},
+ {
+   "Race": "Beyond Limits",
+   "Location": "Mountain Center, CA",
+   "State": "CA",
+   "Date (Roughly)": "09/18",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (50)"
+      }
+   },
+   "Unique Miles": "2",
+   "Elevation Gain": "2,000",
+   "Sub 24": "32%",
+   "AVG # Finishers": 21,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://imtuf100.com/",
+   "Buckles Links": "https://i.imgur.com/gdZ2xcl.jpg",
+   "Strava Links": "https://www.strava.com/activities/717097924"
+},
+ {
+   "Race": "Georgia Jewel",
+   "Location": "Dalton, GA",
+   "State": "GA",
+   "Date (Roughly)": "09/18",
+   "Reg Price": 180,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "48",
+   "Elevation Gain": "14,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 30,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.mogollonmonster100.com/",
+   "Buckles Links": "https://i.imgur.com/f7I4S6T.jpg",
+   "Strava Links": "https://www.strava.com/activities/717210612"
+},
+ {
+   "Race": "Marji Gesick",
+   "Location": "Ishpeming, MI",
+   "State": "MI",
+   "Date (Roughly)": "09/18",
+   "Reg Price": 100,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "104",
+   "Elevation Gain": "13,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://sites.google.com/site/pinecreekchallengepa/home",
+   "Buckles Links": "https://i.imgur.com/NRou6jn.jpg",
+   "Strava Links": "https://www.strava.com/activities/1180324175/overview"
+},
+ {
+   "Race": "Run Rabbit Run*",
+   "Location": "Steamboat Springs, CO",
+   "State": "CO",
+   "Date (Roughly)": "09/18",
+   "Reg Price": 335,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1) / L (1)"
+      }
+   },
+   "Unique Miles": "69",
+   "Elevation Gain": "20,000",
+   "Sub 24": "9%",
+   "AVG # Finishers": 203,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://roguevalleyrunners.com/pages/pine-to-palm",
+   "Buckles Links": "http://i.imgur.com/6rvO9qP.jpg",
+   "Strava Links": "https://www.strava.com/activities/709066487"
+},
+ {
+   "Race": "Beast of Burden Summer",
+   "Location": "Lockport, NY",
+   "State": "NY",
+   "Date (Roughly)": "09/19",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "12",
+   "Elevation Gain": "500",
+   "Sub 24": "35%",
+   "AVG # Finishers": 36,
+   "Strava": "Strava",
+   "Updates": "02/21:  Added Southwest 100.",
+   "FIELD15": "",
+   "Event Info": "http://www.teanawaycountry100.com/",
+   "Buckles Links": "https://i.imgur.com/fBTcIk3.jpg",
+   "Strava Links": "https://www.strava.com/activities/1847732891"
+},
+ {
+   "Race": "Kettle Moraine",
+   "Location": "Lagrange, WI",
+   "State": "WI",
+   "Date (Roughly)": "09/19",
+   "Reg Price": 210,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "40",
+   "Elevation Gain": "15,500",
+   "Sub 24": "26%",
+   "AVG # Finishers": 143,
+   "Strava": "Strava",
+   "Updates": "03/06:  Updated February finish rates.  Updated HURT buckle.  \nAdded Destin buckle and Strava.  Removed Great Cranberry Island. Updated Ute course.",
+   "FIELD15": "",
+   "Event Info": "https://sites.google.com/site/njtrailseries/ww100",
+   "Buckles Links": "https://i.imgur.com/C4TOyyV.jpg",
+   "Strava Links": "https://www.strava.com/activities/1243749391"
+},
+ {
+   "Race": "Mountain Lakes",
+   "Location": "Olallie Lake, OR",
+   "State": "OR",
+   "Date (Roughly)": "09/19",
+   "Reg Price": 300,
+   "Lottery": "01/20",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1) / O (1)"
+      }
+   },
+   "Unique Miles": "63",
+   "Elevation Gain": "13,000",
+   "Sub 24": "35%",
+   "AVG # Finishers": 108,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.beyondlimitsrunning.com/",
+   "Buckles Links": "https://i.imgur.com/0Q8qscd.jpg",
+   "Strava Links": "https://www.strava.com/activities/935159015"
+},
+ {
+   "Race": "Plain*",
+   "Location": "Plain, WA",
+   "State": "WA",
+   "Date (Roughly)": "09/19",
+   "Reg Price": 120,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L  (2)"
+      }
+   },
+   "Unique Miles": "92",
+   "Elevation Gain": "23,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 17,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.georgiajewel.com/",
+   "Buckles Links": "https://i.imgur.com/BidH6vT.jpg",
+   "Strava Links": "https://www.strava.com/activities/1934385820"
+},
+ {
+   "Race": "Sangre de Cristo",
+   "Location": "Westcliffe, CO",
+   "State": "CO",
+   "Date (Roughly)": "09/19",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "20,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 26,
+   "Strava": "Strava",
+   "Updates": "03/10:  Updated Arc of Attrition (UK) buckle.  Added Mogollon Monster sub-24 buckle.  Added Southwest buckle.",
+   "FIELD15": "",
+   "Event Info": "https://marjigesick100.com/",
+   "Buckles Links": "https://i.imgur.com/xW4McJM.jpg",
+   "Strava Links": "https://www.strava.com/activities/1859444033"
+},
+ {
+   "Race": "Stagecoach",
+   "Location": "Flagstaff, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "09/19",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "6,500",
+   "Sub 24": "31%",
+   "AVG # Finishers": 42,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://runrabbitrunsteamboat.com/",
+   "Buckles Links": "https://i.imgur.com/s6A5FgX.jpg",
+   "Strava Links": "https://www.strava.com/activities/1177486186/overview"
+},
+ {
+   "Race": "Bear*",
+   "Location": "Logan, UT",
+   "State": "UT",
+   "Date (Roughly)": "09/25",
+   "Reg Price": 260,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "20,000",
+   "Sub 24": "11%",
+   "AVG # Finishers": 216,
+   "Strava": "Strava",
+   "Updates": "03/13:  Updated Chattanooga Strava, Elevation and Unique Miles.",
+   "FIELD15": "",
+   "Event Info": "https://www.beastofburden100.com/",
+   "Buckles Links": "http://i.imgur.com/HRywJJz.jpg",
+   "Strava Links": "https://www.strava.com/activities/478127356"
+},
+ {
+   "Race": "Yeti",
+   "Location": "Abingdon, VA",
+   "State": "VA",
+   "Date (Roughly)": "09/25",
+   "Reg Price": 295,
+   "Lottery": "01/01",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1.5)"
+      }
+   },
+   "Unique Miles": "33",
+   "Elevation Gain": "2,500",
+   "Sub 24": "42%",
+   "AVG # Finishers": 159,
+   "Strava": "Strava",
+   "Updates": "03/17:  Added Drift",
+   "FIELD15": "",
+   "Event Info": "https://www.kettlemoraine100.com/",
+   "Buckles Links": "https://i.imgur.com/5dagWT1.jpg",
+   "Strava Links": "https://www.strava.com/activities/1021739068"
+},
+ {
+   "Race": "Happy Camper Fun Run",
+   "Location": "Westminster, CO",
+   "State": "CO",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "22",
+   "Elevation Gain": "6,000",
+   "Sub 24": "17%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "03/19:  Updated Denali price.",
+   "FIELD15": "",
+   "Event Info": "https://gobeyondracing.com/races/mountain-lakes-100/",
+   "Buckles Links": "https://i.imgur.com/bxEhiXl.jpg",
+   "Strava Links": "https://www.strava.com/activities/726061984"
+},
+ {
+   "Race": "Maah Daah Hey 150",
+   "Location": "Watford City, ND",
+   "State": "ND",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 99,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "152",
+   "Elevation Gain": "16,000",
+   "Sub 24": "",
+   "AVG # Finishers": 1,
+   "Strava": "GPS",
+   "Updates": "04/05:  Removed Harbison and Run De Vous.\nUpdated March - May races with covid status. \nCancelled = Red | Tentative = Yellow | Postponed = Green\nNo color change means the race has made no announcments.",
+   "FIELD15": "",
+   "Event Info": "http://www.plain100.com/",
+   "Buckles Links": "https://i.imgur.com/GamucLR.jpg",
+   "Strava Links": "https://www.strava.com/activities/1189104978/overview"
+},
+ {
+   "Race": "Miami 100",
+   "Location": "Miami, FL",
+   "State": "FL",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L"
+      }
+   },
+   "Unique Miles": "97",
+   "Elevation Gain": "1,000",
+   "Sub 24": "9%",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://humanpotentialrunning.com/sangre-de-cristo/",
+   "Buckles Links": "https://i.imgur.com/KOaIV8k.jpg",
+   "Strava Links": "https://www.strava.com/activities/2731637507"
+},
+ {
+   "Race": "Midwest Everest",
+   "Location": "Belmont, MI",
+   "State": "MI",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 119,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L1 (146), L2 (4)"
+      }
+   },
+   "Unique Miles": "3",
+   "Elevation Gain": "31,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://runazt.org/flagstaff-to-grand-canyon-stagecoach-line-100/",
+   "Buckles Links": "https://i.imgur.com/oCNSKIh.jpg",
+   "Strava Links": "https://www.strava.com/activities/1198783278/overview"
+},
+ {
+   "Race": "Sulphur Springs",
+   "Location": "Hamilton, ON",
+   "State": "CAN",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (8)"
+      }
+   },
+   "Unique Miles": "11",
+   "Elevation Gain": "11,000",
+   "Sub 24": "29%",
+   "AVG # Finishers": 30,
+   "Strava": "Strava",
+   "Updates": "04/07:  Removed Midnight Moose.  Updated June covid dates.",
+   "FIELD15": "",
+   "Event Info": "https://bear100.com/",
+   "Buckles Links": "http://i.imgur.com/5MWKRlL.jpg",
+   "Strava Links": "https://www.strava.com/activities/1873195414"
+},
+ {
+   "Race": "Tulsa Urban Adventure",
+   "Location": "Tulsa, OK",
+   "State": "OK",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 190,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L (34)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "3,500",
+   "Sub 24": "21%",
+   "AVG # Finishers": 9,
+   "Strava": "Strava",
+   "Updates": "04/29:  Removed Saddle2Surf, Savage, St. Sebastian.\nFinally got all 2020 dates updated and AVG Finishers done.",
+   "FIELD15": "",
+   "Event Info": "https://www.yetitrailrunners.com/",
+   "Buckles Links": "http://i.imgur.com/n8oymhZ.jpg",
+   "Strava Links": "https://www.strava.com/activities/1208457628/overview"
+},
+ {
+   "Race": "Ultra Trails Lake Tahoe",
+   "Location": "Lake Tahoe, CA",
+   "State": "CA",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 350,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1), O (1)"
+      }
+   },
+   "Unique Miles": "39",
+   "Elevation Gain": "21,000",
+   "Sub 24": "17%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://mrgraph.com/happy-camper-fun-run",
+   "Buckles Links": "https://i.imgur.com/mEthqk7.jpg",
+   "Strava Links": "https://www.strava.com/activities/2456269539"
+},
+ {
+   "Race": "Whistler Alpine Meadows",
+   "Location": "Whistler, BC",
+   "State": "CAN",
+   "Date (Roughly)": "09/26",
+   "Reg Price": 350,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "82",
+   "Elevation Gain": "29,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 79,
+   "Strava": "Strava",
+   "Updates": "06/12:  HURT 2021 is cancelled.  ",
+   "FIELD15": "",
+   "Event Info": "https://www.experienceland.org/the-mdh-150/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.google.com/maps/d/u/0/viewer?mid=10s1dKTzpBbtq-H3SFLmxczyFxIU&ll=46.791216282081706%2C-103.38383037596941&z=10"
+},
+ {
+   "Race": "Grindstone*",
+   "Location": "Swoope, VA",
+   "State": "VA",
+   "Date (Roughly)": "10/02",
+   "Reg Price": 230,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "50",
+   "Elevation Gain": "22,000",
+   "Sub 24": "56%",
+   "AVG # Finishers": 196,
+   "Strava": "Strava",
+   "Updates": "08/18:  Updated Kodiak Strava",
+   "FIELD15": "",
+   "Event Info": "http://www.runningninjamiami.com/miami-100-1.html",
+   "Buckles Links": "https://i.imgur.com/JCsVQ4l.jpg",
+   "Strava Links": "https://www.strava.com/activities/2749460341"
+},
+ {
+   "Race": "Arkansas Traveller",
+   "Location": "Perryville, AR",
+   "State": "AR",
+   "Date (Roughly)": "10/03",
+   "Reg Price": 195,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "58",
+   "Elevation Gain": "11,500",
+   "Sub 24": "32%",
+   "AVG # Finishers": 88,
+   "Strava": "Strava",
+   "Updates": "08/31:  Corrected Silver Moon to not say it's from Canada...",
+   "FIELD15": "",
+   "Event Info": "https://westmichiganwhiskeyrollers.com/events/",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Born to Run",
+   "Location": "Santa Ynez, CA",
+   "State": "CA",
+   "Date (Roughly)": "10/03",
+   "Reg Price": 210,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (6)"
+      }
+   },
+   "Unique Miles": "19",
+   "Elevation Gain": "14,000",
+   "Sub 24": "8%",
+   "AVG # Finishers": 50,
+   "Strava": "Strava",
+   "Updates": "09/20:  Removed Orcas Island (Hiatus?)",
+   "FIELD15": "",
+   "Event Info": "http://www.burlingtonrunners.com/races/sulphur-springs-trail-race/",
+   "Buckles Links": "https://i.imgur.com/yKs3VIj.jpg",
+   "Strava Links": "https://www.strava.com/activities/1009866375/overview"
+},
+ {
+   "Race": "Hennepin",
+   "Location": "Sterling, IL",
+   "State": "IL",
+   "Date (Roughly)": "10/03",
+   "Reg Price": 240,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P / O (1)"
+      }
+   },
+   "Unique Miles": "84",
+   "Elevation Gain": "2,000",
+   "Sub 24": "39%",
+   "AVG # Finishers": 136,
+   "Strava": "Strava",
+   "Updates": "09/23:  Added Mountaineer Rumble and Rim to River buckles.\nAdded Old Pueblo, Three Bears.  \nUpdated Wildcat, Cool Moon buckles.",
+   "FIELD15": "",
+   "Event Info": "https://urbanadventure.run/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1997041027"
+},
+ {
+   "Race": "Iron Horse",
+   "Location": "St Paul, ALB",
+   "State": "CAN",
+   "Date (Roughly)": "10/03",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "n/a?",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "93",
+   "Elevation Gain": "7,000",
+   "Sub 24": "50%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://e3running.com/utlt",
+   "Buckles Links": "https://i.imgur.com/4yy0wCT.jpg",
+   "Strava Links": "https://www.strava.com/activities/2786569140"
+},
+ {
+   "Race": "Moab 240",
+   "Location": "Moab, UT",
+   "State": "UT",
+   "Date (Roughly)": "10/09",
+   "Reg Price": 1095,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "238",
+   "Elevation Gain": "28,000",
+   "Sub 24": "",
+   "AVG # Finishers": 132,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.trailseries.ca/race/whistler-alpine-meadows/175-km/",
+   "Buckles Links": "https://i.imgur.com/YC07K93.jpg",
+   "Strava Links": "https://www.strava.com/activities/2729379120"
+},
+ {
+   "Race": "Allison Woods Halloween Hobble",
+   "Location": "Turnersburg,NC",
+   "State": "NC",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 125,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (25)"
+      }
+   },
+   "Unique Miles": "4",
+   "Elevation Gain": "9,000",
+   "Sub 24": "8%",
+   "AVG # Finishers": 4,
+   "Strava": "Strava",
+   "Updates": "09/24:  Added CUT112, Flat Top Mesa, California Untamed, Devil's Gulch, SISU, SaMo, Night Stalker.",
+   "FIELD15": "",
+   "Event Info": "http://www.eco-xsports.com/events/grindstone/",
+   "Buckles Links": "http://i.imgur.com/pZFkF27.jpg",
+   "Strava Links": "https://www.strava.com/activities/410905780"
+},
+ {
+   "Race": "Bromont",
+   "Location": "Quebec, QC",
+   "State": "CAN",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 270,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "50",
+   "Elevation Gain": "20,000",
+   "Sub 24": "7%",
+   "AVG # Finishers": 46,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.runarkansas.com/AT100.htm",
+   "Buckles Links": "http://i.imgur.com/ZLWEgfY.jpg",
+   "Strava Links": "https://www.strava.com/activities/406852456/overview"
+},
+ {
+   "Race": "Farmdale",
+   "Location": "Washington, IL",
+   "State": "IL",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (10)"
+      }
+   },
+   "Unique Miles": "6",
+   "Elevation Gain": "6,500",
+   "Sub 24": "8%",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "09/29:  Added Heartland 125",
+   "FIELD15": "",
+   "Event Info": "http://www.allwedoisrun.com/",
+   "Buckles Links": "https://i.imgur.com/g5rKDDP.jpg",
+   "Strava Links": "https://www.strava.com/activities/999582111/overview"
+},
+ {
+   "Race": "Heartland",
+   "Location": "Cassoday, KS",
+   "State": "KS",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "50",
+   "Elevation Gain": "5,000",
+   "Sub 24": "33%",
+   "AVG # Finishers": 38,
+   "Strava": "Strava",
+   "Updates": "10/01:  Updated Midwest Everest data and added buckle.\nAdded Cross Florida Route 40 Romp, Endurance Hunter, Ozark Foothills, Voodoo, Tour De Los Tejas 300k and 600k, Bokoa Spring Fling, Go Big 100 and 260",
+   "FIELD15": "",
+   "Event Info": "http://www.hennepinhundred.com/",
+   "Buckles Links": "https://i.imgur.com/9LNSHtm.jpg",
+   "Strava Links": "https://www.strava.com/activities/2767507099"
+},
+ {
+   "Race": "Heartland 125",
+   "Location": "Cassoday, KS",
+   "State": "KS",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 250,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "65",
+   "Elevation Gain": "5,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.ironhorseultra.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1878673432"
+},
+ {
+   "Race": "Indiana",
+   "Location": "Albion, IN",
+   "State": "IN",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "20",
+   "Elevation Gain": "4,500",
+   "Sub 24": "35%",
+   "AVG # Finishers": 113,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.moab200.com/",
+   "Buckles Links": "https://i.imgur.com/uollHHG.jpg",
+   "Strava Links": "https://www.strava.com/activities/1914946425"
+},
+ {
+   "Race": "Midstate Massive Ultra",
+   "Location": "New Ipswich, NH",
+   "State": "NH",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "99",
+   "Elevation Gain": "13,000",
+   "Sub 24": "3%",
+   "AVG # Finishers": 30,
+   "Strava": "Strava",
+   "Updates": "10/15:  Updated No Business buckles.",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/halloweenhobbleultra/",
+   "Buckles Links": "https://i.imgur.com/PDuD3yw.jpg",
+   "Strava Links": "https://www.strava.com/activities/2786382488"
+},
+ {
+   "Race": "NJ Devil",
+   "Location": "Tuckerton, NJ",
+   "State": "NJ",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "56",
+   "Elevation Gain": "1,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "CalTopo",
+   "Updates": "11/02:  Added Rim Runner (organized by the person who manages this spreadsheet - Scott)",
+   "FIELD15": "",
+   "Event Info": "http://bromontultra.com/",
+   "Buckles Links": "https://i.imgur.com/cY89BMf.jpg",
+   "Strava Links": "https://www.strava.com/activities/1222175718"
+},
+ {
+   "Race": "Oil Creek",
+   "Location": "Titusville, PA",
+   "State": "PA",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "31",
+   "Elevation Gain": "15,500",
+   "Sub 24": "12%",
+   "AVG # Finishers": 72,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.farmdaletrailrun.com/",
+   "Buckles Links": "https://i.imgur.com/PWnB1eN.jpg",
+   "Strava Links": "https://www.strava.com/activities/1890420439"
+},
+ {
+   "Race": "Pistol",
+   "Location": "Alcoa, TN",
+   "State": "TN",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (10)"
+      }
+   },
+   "Unique Miles": "6",
+   "Elevation Gain": "1,000",
+   "Sub 24": "26%",
+   "AVG # Finishers": 68,
+   "Strava": "Strava",
+   "Updates": "12/30:  Removed Old Cascadia",
+   "FIELD15": "",
+   "Event Info": "http://ksultrarunners.org/",
+   "Buckles Links": "https://i.imgur.com/DcFuNjP.jpg",
+   "Strava Links": "https://www.strava.com/activities/738898950/overview"
+},
+ {
+   "Race": "Tesla Hertz",
+   "Location": "Rocky Point, NY",
+   "State": "NY",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 125,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (10)"
+      }
+   },
+   "Unique Miles": "10",
+   "Elevation Gain": "4,000",
+   "Sub 24": "27%",
+   "AVG # Finishers": 14,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://ksultrarunners.org/",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Yeti Washington",
+   "Location": "North Bend, WA",
+   "State": "WA",
+   "Date (Roughly)": "10/10",
+   "Reg Price": 245,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.indianatrail100.com/",
+   "Buckles Links": "https://i.imgur.com/tstd22P.jpg",
+   "Strava Links": "https://www.strava.com/activities/966016359"
+},
+ {
+   "Race": "Hot TWOT - The Wild Oak Trail",
+   "Location": "Mount Solon, VA",
+   "State": "VA",
+   "Date (Roughly)": "10/14",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "28",
+   "Elevation Gain": "30,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": null,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.newenglandraceevents.com/midstate-massive-ultra-trail",
+   "Buckles Links": "https://i.imgur.com/UwwaT3h.jpg",
+   "Strava Links": "https://www.strava.com/activities/2786395986"
+},
+ {
+   "Race": "Mines of Spain",
+   "Location": "Dubuque, IA",
+   "State": "IA",
+   "Date (Roughly)": "10/16",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "12",
+   "Elevation Gain": "14,000",
+   "Sub 24": "9%",
+   "AVG # Finishers": 45,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://batonatrailraces.com/nj-devil-100-miler",
+   "Buckles Links": "https://i.imgur.com/C1XGMqZ.jpg",
+   "Strava Links": "https://caltopo.com/m/1NTU"
+},
+ {
+   "Race": "No Business",
+   "Location": "Stearns, KY",
+   "State": "TN",
+   "Date (Roughly)": "10/16",
+   "Reg Price": 240,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "12,000",
+   "Sub 24": "12%",
+   "AVG # Finishers": 62,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.facebook.com/events/358238371782563/",
+   "Buckles Links": "https://i.imgur.com/79NVIpJ.jpg",
+   "Strava Links": "https://caltopo.com/m/08L1"
+},
+ {
+   "Race": "Pony Express",
+   "Location": "Faust, UT",
+   "State": "UT",
+   "Date (Roughly)": "10/16",
+   "Reg Price": 130,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "58",
+   "Elevation Gain": "3,500",
+   "Sub 24": "30%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.oilcreek100.org/Home/registration",
+   "Buckles Links": "http://i.imgur.com/sKSYxzj.jpg",
+   "Strava Links": "https://www.strava.com/activities/739810128/overview"
+},
+ {
+   "Race": "Cloudsplitter",
+   "Location": "Elkhorn City, KY",
+   "State": "KY",
+   "Date (Roughly)": "10/17",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O"
+      }
+   },
+   "Unique Miles": "43",
+   "Elevation Gain": "18,500",
+   "Sub 24": "4%",
+   "AVG # Finishers": 32,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.alpinerunning.co/old-cascadia-100m",
+   "Buckles Links": "https://i.imgur.com/Y9kjkzx.jpg",
+   "Strava Links": "https://www.strava.com/activities/2475555579"
+},
+ {
+   "Race": "Ghost Train",
+   "Location": "Brookline, NH",
+   "State": "NH",
+   "Date (Roughly)": "10/17",
+   "Reg Price": 55,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (7)"
+      }
+   },
+   "Unique Miles": "8",
+   "Elevation Gain": "2,500",
+   "Sub 24": "35%",
+   "AVG # Finishers": 67,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://teslahertzrun.com/",
+   "Buckles Links": "https://i.imgur.com/9yidSKH.jpg",
+   "Strava Links": "https://www.strava.com/activities/1222994560"
+},
+ {
+   "Race": "Lumberjack",
+   "Location": "Port Gamble, WA",
+   "State": "WA",
+   "Date (Roughly)": "10/17",
+   "Reg Price": 120,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (8)"
+      }
+   },
+   "Unique Miles": "13",
+   "Elevation Gain": "12,000",
+   "Sub 24": "4%",
+   "AVG # Finishers": 11,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://nextopportunityevents.com/warhammer100",
+   "Buckles Links": "https://i.imgur.com/s8y0ILW.jpg",
+   "Strava Links": "https://www.strava.com/activities/2436733241"
+},
+ {
+   "Race": "Pumpkin Holler",
+   "Location": "Tahlequah, OK",
+   "State": "OK",
+   "Date (Roughly)": "10/17",
+   "Reg Price": 235,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "34",
+   "Elevation Gain": "6,000",
+   "Sub 24": "37%",
+   "AVG # Finishers": 22,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.vhtrc.org/news/twot100",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/1413890599"
+},
+ {
+   "Race": "Uwharrie",
+   "Location": "Troy, NC",
+   "State": "NC",
+   "Date (Roughly)": "10/23",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "20",
+   "Elevation Gain": "21,500",
+   "Sub 24": "3%",
+   "AVG # Finishers": 22,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://minesofspain100.com/",
+   "Buckles Links": "https://i.imgur.com/QEMlLOs.jpg",
+   "Strava Links": "https://www.strava.com/activities/1916670962"
+},
+ {
+   "Race": "Cactus Rose",
+   "Location": "Bandera, TX",
+   "State": "TX",
+   "Date (Roughly)": "10/24",
+   "Reg Price": 160,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "12,000",
+   "Sub 24": "8%",
+   "AVG # Finishers": 16,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://deadmanpeakstrailrun.wordpress.com/",
+   "Buckles Links": "",
+   "Strava Links": "https://www.strava.com/activities/2838233230"
+},
+ {
+   "Race": "Kansas Fall Extravaganza",
+   "Location": "Ottawa, KS",
+   "State": "KS",
+   "Date (Roughly)": "10/24",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "50",
+   "Elevation Gain": "1,500",
+   "Sub 24": "57%",
+   "AVG # Finishers": 28,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://ponyexpress100.org/",
+   "Buckles Links": "http://i.imgur.com/KC3mnZb.jpg",
+   "Strava Links": "https://www.strava.com/activities/752027365"
+},
+ {
+   "Race": "Lake Murray Endrance Run",
+   "Location": "Ardmore, OK",
+   "State": "OK",
+   "Date (Roughly)": "10/24",
+   "Reg Price": 180,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "22",
+   "Elevation Gain": "7,500",
+   "Sub 24": "",
+   "AVG # Finishers": 3,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.friendsofmultisport.com/event/angel-fire-endurance",
+   "Buckles Links": "http://i.imgur.com/NRfcDQ1.jpg",
+   "Strava Links": ""
+},
+ {
+   "Race": "Javelina",
+   "Location": "Fountain Hill, AZ",
+   "State": "AZ",
+   "Date (Roughly)": "10/31",
+   "Reg Price": 382,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "18",
+   "Elevation Gain": "5,500",
+   "Sub 24": "36%",
+   "AVG # Finishers": 379,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://sites.google.com/site/ghosttrainrailtrailrace/",
+   "Buckles Links": "http://i.imgur.com/sEoYE7U.jpg",
+   "Strava Links": "https://www.strava.com/activities/1919717432"
+},
+ {
+   "Race": "Mohican",
+   "Location": "Loudonville, OH",
+   "State": "OH",
+   "Date (Roughly)": "10/31",
+   "Reg Price": 200,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "29",
+   "Elevation Gain": "11,000",
+   "Sub 24": "13%",
+   "AVG # Finishers": 86,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.ph100.run/",
+   "Buckles Links": "https://i.imgur.com/zkHHlxC.jpg",
+   "Strava Links": "https://www.strava.com/activities/2804823807"
+},
+ {
+   "Race": "Silver Moon",
+   "Location": "Reedley, CA",
+   "State": "CA",
+   "Date (Roughly)": "10/31",
+   "Reg Price": 160,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (49)"
+      }
+   },
+   "Unique Miles": "3",
+   "Elevation Gain": "3,900",
+   "Sub 24": "60%",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.uwharrie100.com/",
+   "Buckles Links": "http://i.imgur.com/ONhNyiC.jpg",
+   "Strava Links": "https://www.strava.com/activities/1038202436/overview"
+},
+ {
+   "Race": "Mountaineer Rumble",
+   "Location": "Clover, SC",
+   "State": "SC",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 160,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3) O (1)"
+      }
+   },
+   "Unique Miles": "31",
+   "Elevation Gain": "7,500",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.tejastrails.com/#/cactus/",
+   "Buckles Links": "https://i.imgur.com/aIAm5ih.jpg",
+   "Strava Links": "https://www.strava.com/activities/91801737/overview"
+},
+ {
+   "Race": "Ozark",
+   "Location": "Steelville, MO",
+   "State": "MO",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 195,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "103",
+   "Elevation Gain": "13,000",
+   "Sub 24": "12%",
+   "AVG # Finishers": 43,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.ultraextravaganza.com/home.html",
+   "Buckles Links": "https://i.imgur.com/yj86tUZ.jpg?2",
+   "Strava Links": "https://www.strava.com/activities/420483409"
+},
+ {
+   "Race": "Pinhoti",
+   "Location": "Sylacauga, AL",
+   "State": "AL",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 240,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "14,000",
+   "Sub 24": "16%",
+   "AVG # Finishers": 154,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://blazetrails.com/lake-murray-endurance-run/",
+   "Buckles Links": "https://i.imgur.com/W04y7bZ.jpg",
+   "Strava Links": "https://www.strava.com/activities/2821171183/overview"
+},
+ {
+   "Race": "Rim To River",
+   "Location": "New River Gorge, WV",
+   "State": "WV",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": ""
+      }
+   },
+   "Unique Miles": "",
+   "Elevation Gain": "13,000",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://ombc.net/mohican-100-trail-run/mohican-100-trail-run-general-info",
+   "Buckles Links": "http://i.imgur.com/p8uZ7im.jpg",
+   "Strava Links": "https://www.strava.com/activities/1042668963/overview"
+},
+ {
+   "Race": "Rio Del Lago",
+   "Location": "Granite Bay, CA",
+   "State": "CA",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 325,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (2)"
+      }
+   },
+   "Unique Miles": "67",
+   "Elevation Gain": "12,500",
+   "Sub 24": "27%",
+   "AVG # Finishers": 262,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://silvermoonrace.com/",
+   "Buckles Links": "https://i.imgur.com/nEengmo.jpg",
+   "Strava Links": "https://www.strava.com/activities/1540185649"
+},
+ {
+   "Race": "Screaming Monkey",
+   "Location": "Keithville, LA",
+   "State": "LA",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 120,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "18",
+   "Elevation Gain": "5,000",
+   "Sub 24": "25%",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://ultrasignup.com/register.aspx?did=70390&fbclid=IwAR0Uq_PL1hSc4G4ArHuv19raXm2wFUuC6WN6IkPieOXg4gRMxSe5jn85QX0",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "tBunk",
+   "Location": "Whitewater, WI",
+   "State": "WI",
+   "Date (Roughly)": "11/07",
+   "Reg Price": 140,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (11)"
+      }
+   },
+   "Unique Miles": "9",
+   "Elevation Gain": "9,000",
+   "Sub 24": "36%",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "http://www.ozarktrail100.com/",
+   "Buckles Links": "http://i.imgur.com/etwiZUz.jpg",
+   "Strava Links": "https://www.strava.com/activities/215236139/overview"
+},
+ {
+   "Race": "Swamp Fox",
+   "Location": "McClellanville, SC",
+   "State": "SC",
+   "Date (Roughly)": "11/10",
+   "Reg Price": 145,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "53",
+   "Elevation Gain": "1,200",
+   "Sub 24": "0%",
+   "AVG # Finishers": 7,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://ultrasignup.com/register.aspx?did=36410",
+   "Buckles Links": "http://i.imgur.com/yd7nZir.jpg",
+   "Strava Links": "https://www.strava.com/activities/768100232"
+},
+ {
+   "Race": "Across Florida 200",
+   "Location": "St. Augustine, FL",
+   "State": "FL",
+   "Date (Roughly)": "11/12",
+   "Reg Price": 800,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "200",
+   "Elevation Gain": "",
+   "Sub 24": "",
+   "AVG # Finishers": null,
+   "Strava": "CalTopo",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "https://www.adventureappalachia.org/rim-to-river-endurance-races",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Children of the Cane",
+   "Location": "Port Allen, LA",
+   "State": "LA",
+   "Date (Roughly)": "11/14",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (3)"
+      }
+   },
+   "Unique Miles": "15",
+   "Elevation Gain": "800",
+   "Sub 24": "50%",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Chimera",
+   "Location": "Lake Elsinore, CA",
+   "State": "CA",
+   "Date (Roughly)": "11/14",
+   "Reg Price": 275,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (3)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "18,500",
+   "Sub 24": "10%",
+   "AVG # Finishers": 5,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Tunnel Hill",
+   "Location": "Vienna, IL",
+   "State": "IL",
+   "Date (Roughly)": "11/14",
+   "Reg Price": 240,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "25",
+   "Elevation Gain": "2,000",
+   "Sub 24": "48%",
+   "AVG # Finishers": 202,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Headlands",
+   "Location": "Sausalito, CA",
+   "State": "CA",
+   "Date (Roughly)": "11/17",
+   "Reg Price": 325,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (4)"
+      }
+   },
+   "Unique Miles": "21",
+   "Elevation Gain": "20,000",
+   "Sub 24": "17%",
+   "AVG # Finishers": 48,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Hellbender",
+   "Location": "Old Fort, NC",
+   "State": "NC",
+   "Date (Roughly)": "11/20",
+   "Reg Price": 225,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O/L"
+      }
+   },
+   "Unique Miles": "79",
+   "Elevation Gain": "25,000",
+   "Sub 24": "3%",
+   "AVG # Finishers": 72,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Best of San Diego",
+   "Location": "San Diego, CA",
+   "State": "CA",
+   "Date (Roughly)": "11/21",
+   "Reg Price": 10,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "L (1)"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "10,000",
+   "Sub 24": "38%",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Dinosaur Valley",
+   "Location": "Dallas, TX",
+   "State": "TX",
+   "Date (Roughly)": "11/21",
+   "Reg Price": 185,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "17",
+   "Elevation Gain": "9,000",
+   "Sub 24": "17%",
+   "AVG # Finishers": 8,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Stuffed Turkey",
+   "Location": "Granger, IA",
+   "State": "IA",
+   "Date (Roughly)": "11/28",
+   "Reg Price": null,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (10)"
+      }
+   },
+   "Unique Miles": "7",
+   "Elevation Gain": "6,000",
+   "Sub 24": "",
+   "AVG # Finishers": 1,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Blood Rock",
+   "Location": "Pelham, AL",
+   "State": "AL",
+   "Date (Roughly)": "12/04",
+   "Reg Price": 220,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (2)"
+      }
+   },
+   "Unique Miles": "48",
+   "Elevation Gain": "17,000",
+   "Sub 24": "2%",
+   "AVG # Finishers": 14,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Brazos Bend",
+   "Location": "Needville, TX",
+   "State": "TX",
+   "Date (Roughly)": "12/05",
+   "Reg Price": 180,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "11",
+   "Elevation Gain": "1,000",
+   "Sub 24": "39%",
+   "AVG # Finishers": 97,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Daytona",
+   "Location": "Atlantic Beach, FL",
+   "State": "FL",
+   "Date (Roughly)": "12/05",
+   "Reg Price": 175,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "P"
+      }
+   },
+   "Unique Miles": "102",
+   "Elevation Gain": "1,000",
+   "Sub 24": "41%",
+   "AVG # Finishers": 68,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Devil Dog",
+   "Location": "Triangle, VA",
+   "State": "VA",
+   "Date (Roughly)": "12/05",
+   "Reg Price": 205,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "22",
+   "Elevation Gain": "11,000",
+   "Sub 24": "6%",
+   "AVG # Finishers": 51,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Falls",
+   "Location": "Falls of Rough, KY",
+   "State": "KY",
+   "Date (Roughly)": "12/05",
+   "Reg Price": 110,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (8)"
+      }
+   },
+   "Unique Miles": "11",
+   "Elevation Gain": "18,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 6,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Loup Garou",
+   "Location": "Ville Platte, LA",
+   "State": "LA",
+   "Date (Roughly)": "12/05",
+   "Reg Price": 165,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (5)"
+      }
+   },
+   "Unique Miles": "18",
+   "Elevation Gain": "11,000",
+   "Sub 24": "28%",
+   "AVG # Finishers": 23,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Hitchcock Experience",
+   "Location": "Honey Creek, IA",
+   "State": "IA",
+   "Date (Roughly)": "12/12",
+   "Reg Price": 185,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "L (6)"
+      }
+   },
+   "Unique Miles": "13",
+   "Elevation Gain": "22,000",
+   "Sub 24": "13%",
+   "AVG # Finishers": 21,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Monadnock",
+   "Location": "Kings Mountain, NC",
+   "State": "NC",
+   "Date (Roughly)": "12/12",
+   "Reg Price": 100,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (4)"
+      }
+   },
+   "Unique Miles": "16",
+   "Elevation Gain": "19,000",
+   "Sub 24": "0%",
+   "AVG # Finishers": 4,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Ancient Oaks",
+   "Location": "Titusville, FL",
+   "State": "FL",
+   "Date (Roughly)": "12/19",
+   "Reg Price": 0,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "L (29)"
+      }
+   },
+   "Unique Miles": "4",
+   "Elevation Gain": "3,000",
+   "Sub 24": "14%",
+   "AVG # Finishers": 19,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Charleston",
+   "Location": "Charleston, SC",
+   "State": "SC",
+   "Date (Roughly)": "12/21",
+   "Reg Price": 0,
+   "Lottery": "",
+   "Buckle": "Buckle",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "43",
+   "Elevation Gain": "1,200",
+   "Sub 24": "16%",
+   "AVG # Finishers": 19,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Tuscobia",
+   "Location": "Rice Lake, WI",
+   "State": "WI",
+   "Date (Roughly)": "01/01",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "n/a",
+   "Point": {
+      "OnB": {
+         "Loop": "O (1)"
+      }
+   },
+   "Unique Miles": "80",
+   "Elevation Gain": "4,000",
+   "Sub 24": "",
+   "AVG # Finishers": 12,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Go Big 100",
+   "Location": "Hilo, HI",
+   "State": "HI",
+   "Date (Roughly)": "12/31",
+   "Reg Price": 150,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L"
+      }
+   },
+   "Unique Miles": "100",
+   "Elevation Gain": "5,000",
+   "Sub 24": "",
+   "AVG # Finishers": 3,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+},
+ {
+   "Race": "Go Big 260",
+   "Location": "Hilo, HI",
+   "State": "HI",
+   "Date (Roughly)": "12/31",
+   "Reg Price": 300,
+   "Lottery": "",
+   "Buckle": "",
+   "Point": {
+      "OnB": {
+         "Loop": "L"
+      }
+   },
+   "Unique Miles": "259",
+   "Elevation Gain": "18,000",
+   "Sub 24": "100%",
+   "AVG # Finishers": 2,
+   "Strava": "Strava",
+   "Updates": "",
+   "FIELD15": "",
+   "Event Info": "",
+   "Buckles Links": "",
+   "Strava Links": ""
+}
+]
